@@ -42,7 +42,7 @@
 </p>
 <p align="center">
   <a href="https://twitter.com/asc0t6e"><img src="https://github.com/Ascotbe/Ascotbe/blob/master/MySvgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://t.me/ascotbe"><img src="https://github.com/Quadrified/Quadrified/blob/master/MySvgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="https://t.me/ascotbe"><img src="https://github.com/Ascotbe/Ascotbe/blob/master/MySvgs/telegram.svg" width="30px" alt="Telegram">    </a> &nbsp; &nbsp;
 </p>
 
 
