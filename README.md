@@ -4,7 +4,7 @@
   <samp>
     I'm Ascotbe :wave:
     <br><br>
-    I'm a small chicken at the bottom of safety :seedling:!
+    I'm a small chicken at the bottom of safety ! :seedling:
     <br><br>
     Physical pain, mechanical soaring <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
     <br><br>
