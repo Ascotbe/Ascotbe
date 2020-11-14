@@ -17,6 +17,8 @@ Hi everyone:wave:, this is Sachan. Because the fool on the left is studying, so 
 - :tv:Anime、American TV series
 - :video_game:Plot、management、development and collection games
 - :book:Reading
+- :octocat: Making wheels
+- :zap: ​Daoteng hardware gadgets
 
 
 
@@ -32,9 +34,7 @@ Hi everyone:wave:, this is Sachan. Because the fool on the left is studying, so 
 
 
 
-<p></p>
 
-<p></p>
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
