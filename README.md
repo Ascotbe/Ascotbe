@@ -1,12 +1,12 @@
 <img align="right" src="/Image/Salsa.png" width='383px'>
 
-Hi everyone:wave:, this is Sachan. Because the fool on the left is studying, so let me introduce him:no_mouth:
+Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so let me introduce him:no_mouth:
 
 
 
 #### 👨‍💻He is now. . . .
 
-- 🌻Improving my C++ Programming level.
+- 🌻Improve his C++ Programming level.
 - 🦚Research binary related vulnerabilities.
 - 🌴Research malicious virus related technologies.
 - 🌱Learn Windows and Linux kernel related content.
