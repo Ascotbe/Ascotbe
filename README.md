@@ -17,7 +17,7 @@ Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so le
 - :tv:Anime、American TV series
 - :video_game:Plot、management、development and collection games
 - :book:Reading
-- :octocat:Reinvent the whee
+- :octocat:Reinventing wheels
 - :zap:Daoteng hardware gadgets
 
 <p align="center"> 
