@@ -32,7 +32,9 @@ Hi everyone:wave:, this is Sachan. Because the fool on the left is studying, so 
 
 
 
+<p></p>
 
+<p></p>
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
