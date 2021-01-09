@@ -1,4 +1,4 @@
-<img align="right" src="/Image/Salsa.png" width='383px'>
+<img align="right" src="/Image/Salsa.png" width='383px' height='800px'>
 
 Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so let me introduce him:no_mouth:
 
