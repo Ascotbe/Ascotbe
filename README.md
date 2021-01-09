@@ -28,6 +28,8 @@ Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so le
   <a href="https://t.me/ascotbe"><img src="/MySvgs/telegram.svg" width="30px" alt="Telegram">    </a> &nbsp; &nbsp;
   <a href="https://steamcommunity.com/id/ascotbe"><img src="/MySvgs/steam.svg" width="30px" alt="Telegram">    </a> &nbsp; &nbsp;
 </p>
+![](https://visitor-badge.glitch.me/badge?page_id=Ascotbe.Ascotbe)
+
 
 <p align="center">
   <i> Open to anything under the stars :sparkles: </i>
