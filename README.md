@@ -1,24 +1,23 @@
-<img align="right" src="/Image/Salsa.png" width='383px' height='566px'>
+<img align="right" src="/Image/Katyusha.png" width='383px' height='566px'>
 
-Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so let me introduce him:no_mouth:
+哈喽大家好:wave:, 这里是钰棽. 由于左边的菜鸡正在学习所以让我介绍他:no_mouth:
 
 
 
-#### 👨‍💻He is now. . . .
+#### 👨‍💻他现在干的事情:
 
-- 🌻Improve his C++ Programming level.
-- 🦚Research binary related vulnerabilities.
-- 🌴Research malicious virus related technologies.
-- 🌱Learn Windows and Linux kernel related content.
+- 🌻提升他C++的功底
+- 🦚学习二进制相关漏洞
+- 🌴研究木马相关技术
+- 🌱他啥都想学（啥也不会的菜鸡
 
-#### :green_heart:He likes. . . .
+#### :green_heart:他感兴趣的:
 
-- :rocket:Universe、Celestial bodies 、Starry sky
-- :tv:Anime、American TV series
-- :video_game:Plot、management、development and collection games
-- :book:Reading
-- :octocat:Reinventing wheels
-- :zap:Daoteng hardware gadgets
+- :rocket:宇宙、天体
+- :tv:动漫、美剧
+- :video_game:搜集、建造、剧情类
+
+  
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
