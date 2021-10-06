@@ -1,6 +1,6 @@
 <img align="right" src="/Image/Katyusha.png" width='583px' height='566px'>
 
-哈喽大家好:wave:, 这里是钰棽. 由于左边的菜鸡正在学习所以让我介绍他:no_mouth:
+哈喽大家好:wave:, 这里是[钰棽](https://github.com/Ascotbe/Katyusha). 由于左边的菜鸡正在学习所以让我介绍他:no_mouth:
 
 
 
