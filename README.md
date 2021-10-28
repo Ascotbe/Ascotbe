@@ -1,4 +1,4 @@
-<img align="right" src="/Image/Katyusha.png" width='583px' height='566px'>
+<img align="right" src="/Image/Katyusha.png" width='553px' height='536px'>
 
 哈喽大家好:wave:, 这里是钰棽. 由于左边的菜鸡正在学习所以让我介绍他:no_mouth:
 
@@ -6,16 +6,13 @@
 
 #### 👨‍💻他现在干的事情:
 
-- 🌻提升他C++的功底
-- 🦚学习二进制相关漏洞
+- 🦚学习二进制漏洞
 - 🌴研究木马相关技术
 - 🌱他啥都想学（啥也不会的菜鸡
 
 #### :green_heart:他感兴趣的:
 
 - :rocket:宇宙、天体
-- :tv:动漫、美剧
-- :video_game:搜集、建造、剧情类
 
   
 
