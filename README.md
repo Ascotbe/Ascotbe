@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=%23A1A1A1&multiline=true&width=370&lines=%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E9%98%B4%E6%B2%9F%E9%87%8C%E7%9A%84%E8%99%AB%E5%AD%90+%E4%BD%86%E6%80%BB%E8%BF%98%E6%98%AF%E5%BE%97%E6%9C%89%E4%BA%BA%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23A1A1A1&multiline=true&width=450&lines=%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E9%98%B4%E6%B2%9F%E9%87%8C%E7%9A%84%E8%99%AB%E5%AD%90+%E4%BD%86%E6%80%BB%E8%BF%98%E6%98%AF%E5%BE%97%E6%9C%89%E4%BA%BA%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA">
 
 <img align="right" src="/Image/Katyusha.png" width='553px' height='536px'>
 
