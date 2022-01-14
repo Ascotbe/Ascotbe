@@ -1,4 +1,4 @@
-<img align="left" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E9%98%B4%E6%B2%9F%E9%87%8C%E7%9A%84%E8%99%AB%E5%AD%90+%E4%BD%86%E6%80%BB%E8%BF%98%E6%98%AF%E5%BE%97%E6%9C%89%E4%BA%BA%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA;%E5%BC%B1%E5%B0%8F%E5%92%8C%E6%97%A0%E7%9F%A5%EF%BC%8C%E9%83%BD%E4%B8%8D%E6%98%AF%E7%94%9F%E5%AD%98%E7%9A%84%E9%9A%9C%E7%A2%8D%EF%BC%8C%E5%82%B2%E6%85%A2%E6%89%8D%E6%98%AF%E3%80%82" width='480px'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%23A1A1A1&multiline=true&width=370&lines=%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E9%98%B4%E6%B2%9F%E9%87%8C%E7%9A%84%E8%99%AB%E5%AD%90+%E4%BD%86%E6%80%BB%E8%BF%98%E6%98%AF%E5%BE%97%E6%9C%89%E4%BA%BA%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA">
 
 <img align="right" src="/Image/Katyusha.png" width='553px' height='536px'>
 
