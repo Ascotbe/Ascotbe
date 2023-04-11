@@ -30,6 +30,7 @@
   <a href="https://twitter.com/asc0t6e"><img src="/MySvgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://t.me/ascotbe"><img src="/MySvgs/telegram.svg" width="30px" alt="Telegram">    </a> &nbsp; &nbsp;
   <a href="https://steamcommunity.com/id/ascotbe"><img src="/MySvgs/steam.svg" width="30px" alt="Steam">    </a> &nbsp; &nbsp;
+    <a href="https://weibo.com/u/7332452588"><img src="/MySvgs/Weibo.svg" width="30px" alt="Weibo">    </a> &nbsp; &nbsp;
 </p>
 <p align="center">
   <i> Open to anything under the stars :sparkles: </i>
