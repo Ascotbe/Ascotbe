@@ -24,7 +24,7 @@
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 <p align="center"> 
-	<img src="https://visitor-badge.glitch.me/badge?page_id=Ascotbe.Ascotbe" align="middle" />
+	<img src="https://komarev.com/ghpvc/?username=ascotbe&color=green&label=Welcome" align="middle" />
 </p>
 <p align="center">
   <a href="https://twitter.com/asc0t6e"><img src="/MySvgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
