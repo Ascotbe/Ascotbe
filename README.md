@@ -48,5 +48,7 @@
  <!-- [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=ascotbe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ascotbe/) -->
  [![Github Stats By Anurag](https://api.star-history.com/svg?repos=ascotbe/Medusa&repos=ascotbe/Kernelhub&repos=ascotbe/ReiAyanami&repos=ascotbe/HackerMind&repos=ascotbe/CounterStrike&type=Date)](https://github.com/ascotbe/)
 
+![Github Stats By Anurag](https://raw.githubusercontent.com/Ascotbe/Ascotbe/master/github-metrics/steam.svg)
+
 </details>
 
