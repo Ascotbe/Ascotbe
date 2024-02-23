@@ -570,11 +570,11 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            23 / 0 achievements unlocked
+                                            23 / 23 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgQHAgMI/8QAKhAAAQMDBAIBAgcAAAAAAAAAAQIDBAUREgAGITETUUEHFSIzVHGSsdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAmEQACAQMCBQUBAAAAAAAAAAABAgMABBEh8BIxQVGRBRMUMmGh/9oADAMBAAIRAxEAPwDoOl06mpoEeXKiNOK8IWtSk3Kj/ujE/dW2oUhbL1OYBz8fkCLoQq18Vq98HgXt821nu2rOUzZlPU2QkqZSltSug4eAT7A7ItoHT6Y3Jlx3G4aHpL0byFEpV0tqWSVvLIvkpXATaxtfq2t61tVdWklJxk41rAvr+RZWVTwqunTU4/e2fPincXeGz3HcJEJMUi2QcZOSQQDmQAbIsQcj1820nq9Npn2KTKhx4/5Jcbdat+4II/vVaKiSoUmoNGoyUrdgvS2jHPgSXU3Lgsnk3GJ5J+dWnUGY0faDzUFtLcVEWzSE9BOPGoXcaRMntk6nvT/TbhriIuxzrvoKjChwtw7MiwKi3mytlJBHBSochQPsHRtnZdSoEZTkCQ3VCs5PsltLKyQLDxnqwAH4VceiOtKaDV6exR4bT0tlDqGwlSVKsUkdgjU775S/10f+ejLPPESq/XPLG/5SJ7WK4UpIuQaqbcNap8URn5DmEiM6PJGcQUu4LBbWnEi97KvYX6GnFHqTVQ+neIJEqPBQ1IaVwpC/GOx6I5B6INxqRXRSao9EkNVdmLKiueVDqQhfOJTyFAjpRtrU6ukQdvzo0KYh+S+hRW4peTr7h4ubdn4AHAFgABpEsqyog4SCDvpyqFhZfDUoDkZ03gV//9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Happy Mother's Day</div>
@@ -584,7 +584,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgBAwQG/8QALxAAAQMDAQcCBAcAAAAAAAAAAQIDBAAFERMGBxIhMUFRFYEUIlSSMjVxc5Ghsf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQT/xAAkEQACAgEEAQQDAAAAAAAAAAABAwIEABEhMVFhBRJxoYGRsf/aAAwDAQACEQMRAD8AYK1w7QizQnpzEfUdbCipwZKj1Jrf6ZZtDW+FiaWM8eBiuXnh2PZIUtSVLYREBAT5AJI96A0Xejf0XDWecQ9AUsrMMpCUhJ7BQGcjzzq7X9NbbBkufHn6yTG5aY5q1rGkONTpr1+/x840Ea3WSUFGPFiuBPXhT0qi/Wi3sWeY6zEZbdQ2VJUlOCCOhBpbEb2doYt6E6GtpmGlQJh8AUFoB5pKiM5PkYpmrtI+L2VkSOAo1Y3HwnqMpzg/zSblF9KcPfLaXn+5vrlslguAEvGWWJlD+zkJt1IUhTKQQf0oEb3d10iG5KvVhjlyMkF2QygcwO60j+yPcd6Nlhu9vYs8Np6Wy26hsJUlSsEEdQRW/wBctf10f76XVtvpuM1jbXjvCkkSmGDYj7HRwJbk91+robRbSMfJychxHB+Lw4seO4Hue1GzaT8hn/sq/wAqfXLX9dH++sF+u9vfs8xpmWy46tspSlKskk9ABQ2bL7jwxgPOw6GNz//Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Lady Wooer</div>
@@ -594,7 +594,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwcCBggF/8QAMBAAAQQBAgQDBQkAAAAAAAAAAQIDBAURAAYSITFBBxMiFDJRoeEVIzNhcYKRsfH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgUE/8QAJhEAAQMCBQQDAQAAAAAAAAAAAQIDBAARBRIhMYETQVFhI3Ghwf/aAAwDAQACEQMRAD8A0FXQqpqhiSpsVlSltpKlKTlSlH+zo0NihlueW1EYC+wU3jP6ao3iHuY7X2dSyA157jzYbZaJISVYySSPgNUav8WY32e85MguNz0fhNsqyhz9x9356us4a9IbLib6k96jSZU5Lx6Ld0Agez9a7cU7LhzbFOpCLFMFhawSlK8AkAZJ5/AaHMj08rb8qZXMMelorQ4gYIPUEH550j626heJUsVt9DDEln79hxlwkqAxxpJPTIx/o03a9j2eksWmEcERuIUJSn3U4xgfxoSIRjABSjn7+OKVOJPCUmO4mxN9PA7G99felGvNoQd5bEhQJuW3UNBcd9I9TS8Yz+Y7EdxrLW4tu2W371ypsY6hMSoBAQCQ6CfSpHxB+mte0NvXsU8Np6Wy26hsJUlSsEEdQRqFkrbdlJYkTXILsmOFBl5WONviGDwntpsPxN2EpSFJKkG/Bqyq9jl3pB0kWF4cx4NhfR337GcS3hnBEdvkVDnyKuYzpnUHiFT7oj3dTTxZTSIsRTqHXUgB1OQCcdQckdeurBf1217zbztPOkR1R180r4xxoX2WD2I+nTXI29R7f2ls+XXVUtmTMfbPmv8ALzH19ByHbsEjpp35bUpGdxKupfTxvvxtaskSKW/ld1cO5/g9D9r/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Love Is In The Air</div>
@@ -604,7 +604,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgMEBwUI/8QALRAAAgICAAUEAQEJAAAAAAAAAQIDBAURAAYSEyEiMUFhUQcUFSMkMoGhsdH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgUEBv/EACcRAAEDAgQFBQAAAAAAAAAAAAECBBEAAwUhQVESE4GRwTFxsdHw/9oADAMBAAIRAxEAPwD0Dj6eKhwFS1cqwu7xgliu2dj/ALPBrM8x4TGWEilx9XuyDqSCOFppWX89K+dfftxPnsnFjOXcfPaLiCKqpCqNszMdBVHySdAD74E1JM3ip8hl7uJXtWZe9N2phJYjhC6VOnWiF99Kfz78X2rULBWs7xnHSuUxLEr4vqt2zwhOWkk9f3en2C5h5PycLNJ+76sit0MtgiIhvwQ+iD9Hjt5nF41cJasVa0AIiLxyRj+4II4x0ZKje5qw2Qkx7qJqzwi1fqBYrBJUxDfnWz1aB14OuNAhrjD3uYsRUCJQOPjumvHvt1pXZ1ZUB/pVgobp+DvXvwjpoLSgUkjWD7wc6qYU9uOEFNz1Gvf6qvz1V3yDh8hGDJPRnrTJABtrB6wO2o+WO/H3wetczYitXleqs9i+qP00kik7xY+SpQj0+fcnwOHEy4/J8u4qrNlEp2KksNgHQJV4zsAqfviw1h26t81VvUNH+Vj8/wCeBZcBCOFYmCdx4NB9hFt3c5kwfms7/YKlL9MoXyVxezNQWGsncAWeZx/D6FP4Yg7+APrhFgIIaUnNNeDJHJPJj6tizO04mZpyJUb1D2Go10vsPjiCDknl2viJsdDlsesc1dqzzGnG0pRho+o/PnhTO+Eo8vWqmMeksjwCPUCKpkIGh4UeT/3h3DkLBSmTJ2jUHxWhkxS1EDXM1//Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Generation After Generation</div>
@@ -614,7 +614,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAApEAACAgIBBAIBAwUAAAAAAAABAgMEBREABhITITFBURQiI2FicaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAQMG/8QAJxEAAQMCBAUFAAAAAAAAAAAAAQIDBAARBRITISIxQVGBYXHB4fD/2gAMAwEAAhEDEQA/AOgcfTxUOAqWrlWF3eMEsV2zsf8Ap4Nknpl9x4mmq/3KSeD+osk9HBYhIkMs8lcLXj9ANIQTsk+goC7J/A5PMmTj6Eq2KFxMyIvKtyrL5HlbuVSe/Y3tj2lNeu4aHH8WJqcSjzO369cpiWIyNctNKygbdLn6qy4lMPdfxPjq8c30O3Yb/HNGexGPgw9yWGpDHIkZZXVdEEfBB5L8Vl7uGysaXKeSWtNo1gzizIJAdlNqSRtfem+NHRPxyp5HIVsn0vesVHLJ43QhlKsjD0VZT7Ug/IPBJTC2HEkE5T60zwea5JQUu7kde4NKnU9CzawPTE2PQ/qoWJ8piaVFTxNtWVfem9Lv63xNmpy5XqiGDOdqLHWL16sYlgV27wXO2AZiO1DoaA2OVrA5fHwYenFNbhjlSMKys2iCPkEcHZqvhspkhbmyNF/4BD4p4llUaYt3DZ9H3/oc2jzFNEoUnlex81c7CUyV6qTlVSHQwdmR8lbguStSw0izRJK6vF3pEWaJiR3MBvW97HcPxx0xTyzYHqaxZqmnPLLtq/d3eMeCPt2ftiut/wBfX1vg+103hLK3EbNwRwWkVGrxL44VKqVDBFYL3D0dkH2B+OGpXw2P6du08bZiaSVCT+8u8rkBdnZJJOhySH9W1rk7dPb5omFDEVOUeT3r/9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Persevere Through Generations</div>
@@ -624,7 +624,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwQGAgUI/8QALhAAAQMDAwMBBgcAAAAAAAAAAQIDBAUREgATIQYxQRQWIiMyYZEHFSQzcYHR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUG/8QAJBEAAQQBAwQDAQAAAAAAAAAAAQIDBBEABSExElFhcSJB0fD/2gAMAwEAAhEDEQA/AHuA1R2KVBXNiIW860FlRbyKj5JOsXah0s05HQuO1k+4Wm7NXusBRI47cJV9tayu7nszD2b7voF4YmxyxNrHxzoLJEOmU2bVBTqp6aQ65+rmtsuZZrCm0gC6vfKXCo3+2tDEgCSCoqI34v3+ZnX9SkJkLbQRQNDbfi+4zo5LvTinUtCI1uHsna5te1/41JrtIp7FHmOsxGW3UNlSVJTYpI7EHQj1HU3h1Ow+61XIoagoK3aUppSV5OJPCl/MgE2BsOfpp2q75k9LSHlMusKcjZlp0ALQSPlVYkXHmx0WVGVHLZCj8vPrG6XKekoKnq+uMrVQ2/yal7+O16T38+2Pm/0toiqcShNUduPSalRM1SnFuNtyWWWy2tzIFVwSooSAkAEfbjTWzIpcnphESTIiokGKpn4vdBKSOR376DU/gsAgD2oo3At+0r/dUdNeaT1B1RTR7E3zh3dHU5IW910CQa9Cstdajx6xPDkKsQGI70T04UU7hSrcC0KTYgEAjkedLlUeS/0tKcQ+2+FRz8Vv5VG1iR/d9V+gOM0mi06AXaI6qIw2zu7qk5YpAytjxe2prs6I30xJimbGdkrQ4cWlE3UpRNh5Pe2p0pwulIA2Sdv6vGK02CuGlSVKsHP/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Die-hard Fan</div>
@@ -634,7 +634,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwIGBAUI/8QAMBAAAgEDAgQCCAcAAAAAAAAAAQIDBAURABIGEyExFEEHFRYiIzJhkSQzUnGBodH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEBgX/xAAjEQABBAEDBQEBAAAAAAAAAAABAgMEEQAFEjEhQVFhcSLR/9oADAMBAAIRAxEAPwB7oIrPBaqF62kR5pYg5Yx7ix8yTqMtw4Wikp0eni3TyGKPEWcuAxI6duit9tay+8z2Zo+Tnm+AfZtODu2nGD5ddBZIo7Zba26C3XTw1RLJ+LrY4ZN29w0agDLe+VkLHP21QxIAkgqKiOvF/f5k6/qUhMhbaCKBodOvF+RnRyy8ONKsQpIuYey8rrjOM/trJvtot8FnrJYaSGOVIyysq4KkdiDoR4jucw4ngnlivlKIqFC8tqaJlfdIp6M/zICcA4HX6adrvOanhaomaGWBpKbeYpQA6Ej5WwSMjzwdFlRlRy2Qo/r38xulynpKCp6u3GVq4cv1Na+ft5XhPf39tvnn6Y0RXOksUVojp7TcrJvaqkeSOOphhjMbybgWyCWKKAoAI+3TTXDUWup4YSkqailSoNK0Pxe6EqR1HfvoNX0LgKo9qLN0AH5Tf7rR015pO4OqKaPgm+cO7o6nJC3t9AkGvgrLNdjb75dCLdxBao45KTw5CsJXRhKrowAOMAjqDphukyz8LVUiTxzhqc/Fj+VjjBI/nOiX0bcDJwXfZri15stdzIDCI8NHjLK27PX9P96R5a6kj4YqaU1tNLUukh2xMTlmYnA8z3xoeoFCloS0dyU96889vWM06CYaVJ3WDWf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Trait Collectionist</div>
@@ -644,7 +644,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwIFBAYI/8QALBAAAQMCBQIGAQUAAAAAAAAAAQIDBAURAAYSEyExQQcUIjJhkRUWIyRxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAQGAwX/xAAlEQABBAEDAwUBAAAAAAAAAAABAgMEEQAFITESUXETIkFhwdH/2gAMAwEAAhEDEQA/AHuA1R2KVBXNiIW860FlRb1FR7knEXahlZpyOhcdrU+4Wm7NXusBRI46cJV9YrK7ufpmHs33fIL0aTY6tJtY9ucBZIh0ymzaoKdVPLSHXP5c1tlzVrWFNpAF1espcKjf6xQxIAkgqKiN+L8/zJ1/UpCZC20EUDQ234vuM6OS7lxTqWhEa3D0Ttc2va/9Yya7SKexR5jrMRlt1DZUlSU2KSOhBwI5jqbwzOw+61XIoagoK3aUppSV6nEnhS/cgE2BsOfjDtV3zJytIeUy6wpyNrLToAWgke1ViRcd7HBZUZUctkKPu+/GN0uU9JQVPV8cZrVQ2/w1L39O15T16+mnvf4tgiqcShN0huPSalRCtUpxbjbcllpstrc1AquCVFCQEgAj64w1syKXJywiJJkRUSDFUz+71QSkjkdeuBGJ4NiO60s5koLuix0OsKUhXwRfkY6GmvNICg6opo9jvzh3dHU5IW910CQa8Csvq7IpVUqJVFzLRozDkXyxKnErKFBwLQoDUBYEcg4Y6jIal5TkPsSWZTa45IfZIKHOPcLEixN++AioeE6pimgMxUGPHZGlphllYQjuTyokknkqJJP+DCtRUxKL4eR6IajGlSY8TYu1f1q+B174x1AMqS36SySDxX7WN0+CYaSnqu8//9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Collection Maniac</div>
@@ -654,7 +654,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQcG/8QAKxAAAgEEAQIEBQUAAAAAAAAAAQIDAAQFEQYSITFBUXMTFSIjNTZykbLR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUBBAb/xAAiEQABBAEEAwEBAAAAAAAAAAABAgMEEQAFITFRQWHRcbH/2gAMAwEAAhEDEQA/AL7a22NtsBY3VzYRzvKq9TEDZJBOyTRxz3FQdGDH796P/aQu/wBG479q/wBTU2wcGJj4vhRMmPina1gdjLChLLob8vPv3p3HYS6lSlE81sf3Mzqeovx5BQ2qht4Hm8omMyHF7+YxpHjUYa1uaM9RJ1od6SzuIx8GHvJYbSGORIyyuq6KkeBBqWWVjCMBmHmmxt3JHBblTBbopRxMOpthR49v4qw8j/A3/tNQJTYZdSEKNX8+43019b8cLWbO/wDcIkgluOI49II2dgikgenSax3FsbmX4rhGs4kWM2MJ+4jEn6B6MK3OCy+Phw1pDPdwpIkQVkZtEEdiCKJTBcJRAqJaqijQVZ3AA9AOqpakFsKQQeb4vv2MBM0hqW4XFKIJrrxhOXs8nbcZy7ZFYwhSIL0Iw7/FX1Y1u+R/gb/2mrOfJOFbUlLVtENpp3YbB2OxbXiKVzuXx8+HvIoLuGSR4yqorbLE+QFCdWXFJoHm+K69nrLkOKmI0GkmwM//2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Literary Genius</div>
@@ -664,7 +664,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwIFBgQI/8QAMBAAAgEDAgQDBQkAAAAAAAAAAQIDBAURABIGEyExFCJBFSMyYZEHFiQzUnGBodL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBv/EACYRAAEDAwMCBwAAAAAAAAAAAAECBBEAAyEFMXFBURITImGx0fD/2gAMAwEAAhEDEQA/AHugis8FqoXraRHmliDljHuLH1JOoy3DhaKSnR6eLdPIYo8RZy4DEjp26K301WX3mfdmj5Oeb4B9m04O7acYPp10FkijtltrboLddPDVEsn4utjhk3b3DRqAMt5yshY5+mqFowDkFRURnaefqp2/qThLhdtBEAwMZ2nuK9HLLw40qxCki5h7LyuuM4z+2um+2i3wWeslhpIY5UjLKyrgqR2IOhHiO5zDieCeWK+UoioULy2pomV90inoz/EgJwDgdflp2u85qeFqiZoZYGkpt5ilADoSPhbBIyPXB0V02U3NshR9XvxTdLdXnKCq9HTas1cOX7FtnP28rwnn3dtvrn5Y0UVtptb2VIbFU2uXdVSNIsEsaRGN33At5SWKLtUAEfTpplhqLXU8MJSVNRSpUGlaH3vdCVI6jv31lvs0scfBdhlt0lfZK8yTmbmlmTGVVcYwf0/3pTVz5KFHMg4Hff4ot/SLly+u8lcSQY4EZqivlLBdbkWpbvRU0MtL4YlkLsjCUOjAZAwCOo9dLd0mWfhaqkSeOcNTn3sfwscYJH851XC5wggj2ICDn85v8ajLXUkfDFTSmtppal0kO2JicszE4Hqe+NDcXVXvAIiD+6UzTGK2aSlSpmv/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Highly Experienced</div>
@@ -1150,11 +1150,11 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            72 / 0 achievements unlocked
+                                            72 / 72 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABwgEBQIDBv/EACsQAAICAQMCBQIHAAAAAAAAAAECAwQFAAYREiEHExQxcWGhFUFRY4GRwf/EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMEBf/EABwRAAIDAQADAAAAAAAAAAAAAAECAAMRIQQxQf/aAAwDAQACEQMRAD8A5vOZ+N6VTpfhfL6WJb3Oh9Djc3ubITRbbxd/JSKx8z00LOEH1PsNb8bFNuHMYjAwyhDdtx1g479IZuCf65OjFndx1qGRwO0dvVHNa/P6ehjop5K8CQiUxeosGMq8ruyO3T1ABRyeSdXjfk5fj0hOmL3uHC5fb9ryM/i7uOnfuBZhZOr4J7H+NQR5gqi2pPQJRCfnpLf5plNrZynu2LKbU3BUlWvBZWjdoTzvYWAvIYo7VZ5CZIysnSGQsRwwI47ggLN46TEYXJY2chpamaauxH5lI2Un7aJ1RNi4Tkz2JkoMF4hYHI5KUx06t6OaVwC3SoPc8Dvo2+Gt/GZbxUoTRGvcMGFMsMoAbypBPIDwfdW6X9v0PxpckkgedmuLYdP2WVT9wdWNa9hKkyzVlzkMynlXjsxKwP0ITnUDBT2BqywjCbmyWKwXi5m552r0Ymq0p5m4C+ZJ6qJ3bt3ZulST8e2gxvy3Ffr5rIVWLV7WflmiYjglWRiDwfbsdVP4tgnkaSeDNzSseWd7MRYn6kpqXmc1g7u0xQo17sNtbImUSsrcnjpJLAAdPTyOOOeeDzx2072IyYPcSup0cEz/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Speak Friend and Enter</div>
@@ -1164,7 +1164,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAACAMFAgQH/8QAKxAAAgICAgIBAgQHAAAAAAAAAQIDBAURABIGIRMHoRQxUYFBUmFjcbHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABoRAQEBAAMBAAAAAAAAAAAAAAECAAMRMSH/2gAMAwEAAhEDEQA/AC3rllhcHlc5O0OFxt3ITKNslWBpSo/r1B1+/McFjZMxnMfjIGCy3LEddGI3ouwXf34oVxxsR2vFPp3ZsY+5jVevFInaOsgZQy2ZCPbyyJ3VZvag6CqNhuUDTqg9xiy2HyWFsivmMfcoTkbEdqFomI/UBgN8jWFxS/FjfQTCH9+pb/nFNNiksLX8P8+nsW8jkusUs7Kz1wyR7NuAk7jYF4kaT0shVgVBJPDlk6UuO8cu0rAHzVswYH1/MkbKfuOP2hlEp1Lib02IzFLIV9GepOk8YP5dkYMP9cSVfLyXI7XkX06rNNlbxktdk7SRiQgL8E8ZJKyKnfoDqIk+veuGuua3yk20sMn9llU/cHltTyWHoy/LTOfry613htRodfpsLwEl+7Lho+ZDyZc4oVvJPOazLnKLCcF2ZEkmMfUwV02CdhYi5O4gQ2vfOCZyaWz4vZtWDuexl2mcj+LNESfueRyZrCzzfLajztmU+i8tuNm1/kpzYzOawd3xIUKNe7FaWyJlErK2zrqSWAA69djWt70d69ce7hno90uPjub7fN//2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Master Forger</div>
@@ -1174,7 +1174,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwQFAgMI/8QALBAAAQQBBAECAwkAAAAAAAAAAQIDBBEFAAYSITETURVBgUVScXODobPC0v/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAcEQACAwEAAwAAAAAAAAAAAAABAgADETESIUH/2gAMAwEAAhEDEQA/AOZ+YbkKsUEmwm+q1OkTElPFIUlVcVJV1Q9q+utU1DTKFhKUlX3j2Tpvf2pD3nl2IIcxLeZRtrHyo0Z9Bbclu+gOQ9RKk/IDzyPYPgHThQTsxrPEEfIHsuIDiOlX4AHferJiZIDIfaWQ0Hgz56B4lV/tpkgbQi7NzkeI6rEqzb2ByEqTDZQp1yG4I6ygeopSvf5UbB8ijoXbTWzPH2in+A6dhg2TVtlfk462Hloc6vxR0wRsiMrnXdx7Fm49zMqhMw48HILSzJgBDQbJaCzwcVQ6UDYs9aIgW3ZC1zUyHE+7KkpNfUHUj1tvDox8wfxeZ/xoVgp9wdC3Iwonrxufg7k35Mx7eZjRnIz8WCtL0rIJU2psB0IPBtVKorJ8AddaKpiPR2WOPQ+JCr/JOsGcht5sUIeXP67Q/pqdl8xhJ21BAgx5rMtMkPJDqkqs1xJKgAOPGxVXdG661WyxChA7I11urjeT/9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Promise Keeper</div>
@@ -1184,7 +1184,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAABwQFAAIDBgj/xAAtEAACAgIBAgMHBAMAAAAAAAABAgMEBREABhIhMUEHEyIjMlGBFEJhY7LB0v/EABcBAQEBAQAAAAAAAAAAAAAAAAEDAgT/xAAaEQADAAMBAAAAAAAAAAAAAAAAAQIDETEh/9oADAMBAAIRAxEAPwDzUCAig78OctOtbyE4r46tPZm0W93ChdtDzOh6fzyOQ8kgSNe5idAD14o+zvG3cBTr38x09as0J8igkR6bTpIixOQXRfrVWbu7fvo6OtcqpOZJdYaXatrH2GgvV5q04AJjmQowB8jo+nNkWRan6pSewTCH8lS3+uJHtAxN/PUjkcT09brUIb86RotRoUijMcR+FGJKIX72C78CW8t650WWNouj5FdSrDJgEH0+SebacrYrVPRSfHHIGDEMDsEHjthIepcx0DhRdnmku5G3HXxoSsGWnW7tyTsoGiWC+Z8e1fA/FwRhNf3xNtbDp/Syg6/IPLJbuDQaC50Dy0LMev8ADgqUv0ah0vBkzVfqbDez68K80sNqnZevlEeuoFmHuJhsqNaBAYKSv7SN/TwjyCsvRhZiSzZMEk+vyTzI8tg1HaYc4w+xtR/8clZnNYS70mKFGvditLZEyiVlbZ12klgAO3t2Na3vR3rw5S8k1Gl0ljx3N7fD/9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Death is not the End</div>
@@ -1194,7 +1194,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABwgDBQACBP/EACwQAAEEAQMCBAYDAQAAAAAAAAECAwQRBQAGEhMhBxQxQTJRUmFxgSJTscH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgD/xAAbEQEBAQEAAwEAAAAAAAAAAAACAQADERIhMf/aAAwDAQACEQMRAD8AXV50UaOtExpj7Ta2WHFIcJCDXxkevH51716at/DzBJ3VvnCYOQ4UMTJKUOqBohsAqXX3oHRM2zGbn+MT6nzHhoi5VWORDU4WujEQtIb6NA8SgoF8qCudWSo6QjzcSXrMGXosqO2XH2HEoC+mpVdkr+k/I/Y99YlLgieaSf4B4M17WUlX/NGLBYqO54sQsY6I8uHmn3YE2Iy6XEiMEUgqJAJcHDqcwKuiD7aHm58SrA4/LYlxfUVCza4/P6uDagD+/XSKU/mkqLcW0s6ra28cVmW2eQhPhxTYPdSPRQ/JBOmhVs3au9dw4ve2JmOhXVbku+WUOElSCCnqD1SoEC/ft+9KiI6FPLXKbkLaH9K0pIH3sHVli87Cwzil4qRuOEtXxFiY2i/zSe+pKk26c0p8zN4fbG1PCfz+5pkt9+RS0sKkEckJUSek0kepN1f+C9Lduqc9lcJPykkAPzcyqQsD0BU2TX6utQzNxY3IPh7Jq3BNeHYLfmNrI/FoNakzOawk3aYgQY81mUmSHkh1SVWa4klQAHHjYqrujddtI2UbJfuHlyZflb//2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Finished Tales</div>
@@ -1204,7 +1204,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAcIBf/EAC0QAAICAQMDAQYHAQAAAAAAAAECAwQRAAUSBiFREwcUMUFhgSIjMlJjcZHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGxEAAwADAQEAAAAAAAAAAAAAAAECAxEhMRL/2gAMAwEAAhEDEQA/AJcHx1o7Nt0m7bglOCSKN2R35ytxUBELHJP0XH9kaO6J22Dct+UXqs9qhWilt2ooJlido40LEB27DJwPPft3xqg/Zt0FU2/fdj3vcalNBJUehaSvLGUpzCMlZkZSRzIHBuWGWQkjORhgqpLrJhTzotYnFP3sE8BMIfvxLf8ANUX1z7M6FG0lu9NFPU9VfQr2LOIadPJJXI/OkwWZ2ZB2Hck4OkbudCfbel5q1pCki7khHgqYCysPIIIIPgjWttLaMzSoyNptvRsuFjilWZREyy44kc1b4/IZUZ+mdPrYevqvStqnJve23oo4JZKzUkkT0KTRIEVkRQBI7kEmRicdwPOkBAa3qk20sPH/AAsoOPuDrTa5sTtmSPe3by1iI/LH7PAA1E0n0tR9IbvVHWs/U2z7vdkgaKrMkixcn9T3f8YEcih+6mRSycFbH6mxgaWnUFqa50ks1g5cXYoV+ix1gij/ABRoSLdNhRAhrbyyg5ANmLGfOOGjN53rZLvSYoUa92K2tkTKJWVsnHEksABx457YznBzjtpLyQ40vQseOpvzh//Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>The Web Revealed</div>
@@ -1214,7 +1214,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QALRAAAQMDAwIFAgcAAAAAAAAAAQIDBAUGEQAHEiExEyJRYYFBghQyQ2ORocH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQIAAxEhMf/aAAwDAQACEQMRAD8A5wfQ0HSsOqdB6qUoYyf50cWntVdVxwY02O1EpsCWsIjP1OQI4kE9g2k5UrP0wOv01Ds5b8a5NxqZBnMmRBZDkt5gDJeS0nkG/uVxHzpo1Kk03daz5VzV2uimXbTvGjNQUlLDUQtFa0MqSevIpSfOCO3bynTzOnV5YXbtbdNsQX6hIZiVGnR1lD8qmyBIQwoHBDgHmTj3HTQY2HExfxSSS2Hg188Sr/NNSgyqptncUOZazEmtQa00yy8uTCc8OVzKVKaRkAFZ6jOTnPT11j7y29GtWtVulQGy3CFTbkMNn9NDkfkEfbkj41RGTKUL1sDbS4m7SvqBUZvMwTzjyeH5g04kpUR7jOfjRZWbamWgl+mRkv3DSK8hLkZ+KlfhLcKlJbyodFLAVnByMq7aV7So5eKpaZC0fsqSk/2Dotty+3bZZUzQqhcEVhRyWfHZW3n14lBA0TRL7sqV+ZzUi5KrfNrVa3qrTk0GhQVIW7UJjjq1MttuglsKUAPEAGAc9MYA7aVO69eTdL1UrTSVIjvVRLccK7hpDHFGffAz86qVzcBVwoQivS6/MaSchoyGkNg+vEIAzqjWazRJtpiBBjzWZSZIeSHVJVk44klQAHHjkYxnODnHTT3cMofdLj4rm+083//Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>No Orc Lives Forever</div>
@@ -1224,7 +1224,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgUHCAT/xAAqEAABBAEDAwMDBQAAAAAAAAABAgMEEQUABiEHEkETMWEzUaFTZbPB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAP/EABsRAAICAwEAAAAAAAAAAAAAAAECABESITED/9oADAMBAAIRAxEAPwDLCRprsDbWWz8fKu40R2IcJoyZcyS56bbSEizZokn4AOh/Ye/tAJJNAAe+rX6fZdjA7X3RtncyJWIOZhqTHfkMOIT3DkXxdX78EaoEvUmzY7EN702/ltn5hWOzjSEP9oWhxpYW24kgEKSryOR886h0uupjiUhR9MPBmvFlJV/Wn/WLONb1y0Y7ajTZ2PxcVuOqUlhagrtTVnix7Hk14+2glVs1R/ck/wAJ0ymIuFWy7EfQl6BE6o4V3KloNJdHYXKoL8e/n/dWZ1XfeT0rdY3M4heWVnZzkQLvv9Muq5TfNE8jx23rPkcxvUJlokKQP0VJSfyDqUcm4NxQU8nOOKAoFclpRA+3KNYEKdzMpbk0V0ukuHaewhgXG0R4+WcXkgm+B6K+V14qxz5Oqc6mKhqby7mMCBFXmiUdlV9I/b8/N6gI2WwTCVJbYzYCxSgmU2kKHzSOddWYzOEm7SECDHmsykyQ8kOqSqzXaSVAAdvbYqrujdcabujKa7I+fm6vZ5P/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Purge</div>
@@ -1234,7 +1234,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcDBQYI/8QAMBAAAgEDAwMBBAsBAAAAAAAAAQMCBAURAAYSEyFBMRRhgZEHFRYiQkNjc4KiwdL/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/xAAbEQACAwEBAQAAAAAAAAAAAAAAAgEDETESIf/aAAwDAQACEQMRAD8A55rWg1jmyyQZGOT7u3+aDWWtcF0y2MZnPBcTI/IaLrSid36NQwqpupmcoDJEfJA8n1x79Mnad3vlwoJp2s+W2rZicKZFuAi10wPuyY/HJkjICEgSMFkCAInTRdA7Z9F59YMSelULYto7mM4mJHwPfRCrjUCEapUiVRcE4PpniZf5rSXre10ncK6ybwZ9o7Wl7EiVZEe1KAkQJqdjlGWMHBzE+hGsvUKgna7oqZ1VC6gQZjHKPRODjx28abV+YBsNJX1i40N8kKpQetcxzWJY5DyM+Dj5HTO+jZFZZa+qqtsVgvForadiZrQ1a62klKJAmVTIwyOSOUSQQT38aVoZTTqJyqF1BXn8mcQcfyB0UH7eBz7PeMj9ZP8AxqVoXpOstGDU38ldwrqiru1FQbbtrDBjECa33KtnGIH4SeOcep4x8nkdLu6kHaTGQWFRndMxhE9ojonA+GoE3Dby/Sku5P76hn+mjrxebJW7TFBQ09aqqjUh0Q2UZZOOJJkABx45GMZzg5x21rZYjJkdMq63Vo3h/9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>The Operative</div>
@@ -1244,7 +1244,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABwQCBQj/xAAvEAABBAEDAwEECwAAAAAAAAABAgMEEQUABhITITEUFUFhgyIjQkNlcYGzwcLS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIB/8QAGhEBAQEAAwEAAAAAAAAAAAAAAQIAAxExIf/aAAwDAQACEQMRAD8A5tiyChxNqPEaslTenkFLrkkn6SCKsV3B1LLZZYSqgSfFX20u5zBt51/EOPRIHQjbax0iS50z6hbimykJSEKSpaiE39qq1cyLja6MNqIU6emDRNAe/wDLVKG3BHEkHkgPBqvjxKv40ubKxDGM3Sw5Hg48x3sbkHGlKQpb7bqIy1BKgskoIsEEAXoubHHZd/iKf2DpUZNMpW1MxCkuKSpV34o6dsFkMVuHMxpmNfjSYpRCCsa696afDXFa4NlolQQ8mySRfe/doT+oXIWqSiQtq/uVJSa/UHVHW28PMfMH5zP+NTNEv3ZUtGdchOx+C3Q1lco9GhRmJD0xcXqeoyM915npuhSEqKGEGzQJ7fHQtPbDWyyEAhPtMVfmuia1gzkNvNihEy5+e0P6auzGZwk7aggQY81qUmSHkh1SVWa4klQAHHjYqrujddtJdwx0e4+PjuaF83//2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>No Orc Left Behind</div>
