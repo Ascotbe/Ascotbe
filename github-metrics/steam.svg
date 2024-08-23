@@ -1433,7 +1433,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        16 hours played
+                                        17 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1450,7 +1450,27 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            20 / 81 achievements unlocked
+                                            22 / 81 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAQb/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGExQxQVEVInEyUmGBkf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACESEScf/aAAwDAQACEQMRAD8A7zp21PdqOeqrLpd1l8uePbFWMigLIQMD8aNNaI4aqeE3PqFkji3s/m4RM/JxnONM9HVMFPZm8iaOMvXVIUOwG495vTTDLU00lTAYJJz900ZjAbeWLDLjIyBkDB/bwfjIDCddrWLpJsVnRTRnzb8YaltgmFyJVcjIyMZ5x8aLeLVJbIYKylut2Z1qoF7ctUXRlaVVIIxzwdNNJLHPCopZYzUbVeHgDepBBGCQpwCcenqc8aD1B5KwFqqbLNXUiLEn6AveUg/n1B/GjDGBazY7JtJQwSdMVE7xK8sFbUAtk8J323D/AA6uVfYulR4qVLRd5FkhdH5k7ZOcAHJH3Dn3I49NQLbM9PSzUFbbbhLCKuod4xSSMsm6QlW3DgjHOPnnRHS3pGrC23eN1ZcFaGQkAEnAOc55PvgfGkPJVhV+8l6KmaiuEKvUzV1TKzSENtUhQpAZsewyBn+tC6nhcx2+aSQZ86mTYowuO4Dz7nkaSju1NDc2qY7ZelDJhx9OcsTjAO7PIx7fwNZebyLgKCCkoLrv86nkYyUTooQPkkkj201MZBW3ocn/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Soaring Slash</div>
+                                                <div class="unlocked">23 Aug 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgL/xAAvEAACAgEDAgIHCQAAAAAAAAABAgMEBQARIQYSMUETFEJRYXGjJTJUYnOVobPR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABoRAQEBAAMBAAAAAAAAAAAAAAECAAMREkH/2gAMAwEAAhEDEQA/AN507iny1Oe1cymXWX1uePtiuMigLIQNh8tPT9OrC0X2znCJHEYU3Txv7uOdH6G5ws2/421/a2qGSMpsU46yIZSzMXcbiJQpBf8AkAe/f56zJPI7pvko5EHR5sDXqIxbK55yF7jtebgfEngfDzPloeWxcmOr1r1bKZguLNcGKe0WUq0iqwI29x1WqS0o7pjrizbndwJJtjIqsB4lvujgezrjq5u3GV/zXqo+sv8AmiHS5N16Bwuih24eZRztdtD6zabrV/XbNi1Zb0kBfshi9ntXjuI8yT3Eb8DULp/Ivi6NupNj8oZ1tWHBSozKQ0jFSG8x4ao189FXpxI2NzA7EVSBRc87c+Gkp0d6XNeqT7tCvCgAbAeA1F6q5p0RwQchV8f1BoJ6nhB2OMzn7e+kMzmRkBQgqUMr3+vV5GMlJ0UIH3JJI8tWqOtOPjooU3//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Happy Harvest</div>
+                                                <div class="unlocked">23 Aug 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1534,28 +1554,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAUCAwYAAf/EACoQAAIBAwMCBQQDAAAAAAAAAAECAwQFEQAhMRITBhQiQVEVMoGhI2Fy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDAAT/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIREiFBMVH/2gAMAwEAAhEDEQA/ANfQRxz2+WruN1vHferqY1SCrZVAjZjwOAFGuFJIagxm6XtFKjPVWHCA++ffRlmpw3huSbCsUuUzMsi9aEd8qSRgngncalDSMJJoxI9PTR5JkjjQgAEg+s5AA4zgE/oQrw73LbK6K1kSOktzvZU/ZJ51x1D/ACATpfT1MqydSXK5ebp62OPtmrMkbp3Iwcg/PWRzyp0yrHtUbQ9qvnqc/crM83V8YClQfjH96tr/ADf05Xq6QUsZq6GOFNgV/lUsuB7A8Hk/jOtXwKk+9Gngr0WeVRytbVD895tAS22OhhMb1qdKktGk0WSmBtkZ3O2Mj9E6h4cuJtdJU0lTb7qZVrKh8pRsysrSEgg+4xr2urhNkvBezECOmNrcxOxzsw3BGBgj43zprWKJVLNvjA/Ny19OkdTLWRlRGJZJG2Un1IgQbyOGGzYHGc7ad36c1Ntt8nR0h7hSkAn2MgOdZ6esla4iWGjukUSyZC/S3JChGUHnBPrbA4GRzjGjrlc46paGCioLuzmvp5HaajkUBFffcjYAaCemPKO00j//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>A Great Gust</div>
-                                                <div class="unlocked">22 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgQFAwb/xAAoEAACAgIABQQDAAMAAAAAAAABAgMEBREAEiExQQYTFGEiUXEyQlL/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQME/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACESHx/9oADAMBAAIRAxEAPwDvPTuKfL057VzKZdZflzx8sVxkUBZCBoD64PJYZoK4+Bk83csSyexHGL55FbyXcA8oAB3v+d+BwlqxB6clipcvyprV7kdtn2wruS+h3I6dPvhmtNSxV5YMLXtWkhgVri1iOUAgcrsD/lIRs/idkd99OKTMJtWxZyS5KF0IEpR+o5LMezZSbJFVUAb0ja05b/XXT967cPXKiw4+nlcXmMtMjWYAqy2iyMrSqrKwI79SCD2PFKKvcuRS5SPLKjn8qyxOTWWMf9r3YnqWPQjx24i35Zl0PbiggtT1LXsxprTNZUcxPksF348ed8EyCzZCM+kwYJoJJGHsme7XQ66CUzluv9C6H2Pvje5ma+Hs2cO9+KkwjD1bE0TMicxJ5D4JUdtnsR+uE8TYSviruNv4/LFjbnbmhquehlLK6sPPYg8O0csKst2xao5aSWxKD+NB+iqoVR/dbJP7J4DwkWNsqb7McdVxVi9DHjrF2Q2Vb5UpRuS2FPMSzEAb2QNr4JHbg803ybRtR6aD51KsreGKSksR9AsB/QeAyuXS5YrulTPwGNWjkKY9+YxtokKfB/EdfA354HJ5SK1BjaeOxuURY7tdtNReNEjVxvqR00OHMyAtoz//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>The Stone's Secret</div>
-                                                <div class="unlocked">22 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+10 others...</div>
+                                            <div class="description ellipsis">+12 others...</div>
                                         </div>
                                     </div>
                                 </div>
