@@ -1433,7 +1433,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        19 hours played
+                                        20 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1450,7 +1450,37 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            22 / 81 achievements unlocked
+                                            25 / 81 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABQMEAAECBv/EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwQFEQASIQYUEzFBIiNRYXGBMzVDkZWh0f/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAGhEBAQADAQEAAAAAAAAAAAAAAQIAERIhA//aAAwDAQACEQMRAD8A9507anu1HPVVl0u6y93PHtirGRQFkIGAPlpMdMKCc3q+7SMAd6eP61nRTbLDUOQxC1lUfZGT+K3pqS83MeDHH28ixSkFjKNp2fELnI+pxqoDnbmqqttkzmPpaJB+bXwn51zf5qreLVJbIoKylut2Z0qoF8OWqLoytKqkEY54OlrVXS9nEKmMtIE4Kke3j5E+f31B1TKGtNMynh66lXg5/WXjj6aaGtmRmr7BcodLusdsePuZoSKyrG2NNxk963lwfLOmILZFIsjVMRIkGNrtubHxZvVj+wHA9dB9OXI2ujqaSpt91MgrKh8x0jsrBpCQQfXg6UbqKJVJa23nHljsXJ0Smvcf0K6eTEjEIMGOPdAVCtGBnGBgED144I0R1FNTmkoIIGiBFfS+7GAVHiDnb9tbPU8IODa75/Hvo+83hLibfFS266GUV1O7PLQugVA4Le0RxoqjXmKIroUz/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Passion Passes</div>
+                                                <div class="unlocked">23 Aug 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQGAQP/xAAsEAACAgEDAwMBCQEAAAAAAAABAgMEBQARIQYSMRMUQZEVQlFTYXOBoaOy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAcEQACAwADAQAAAAAAAAAAAAABAgADERIhYUH/2gAMAwEAAhEDEQA/ANxhaAv423fyWXysXZZsKxjusiKqSEDj44415JHV9F5pMp1HGhVisclsqwUCNiSNt9x3/wBaZ6QgSz09Yil3Ktds+DzxMxB+o0pOt2rWln9ytr0kZykkQUsANyO5fB4/DVQXQDNbWY5Hsy/sq0LxxnJ58yNKYyPeOSQJTGdht+g+uq8jjzTp1MlQy2WkBsV9kltF0ZXkUEEbc8HTdRTlIpLBs2okMjLGIJSmyDjnb5Pn+dS9SxR1cLTggXtiW5URV332HrLqcetgFhLAeznRQC4eZR927aH+zaaucU7G/wCU/wDydZTpzInF1LNSzj8qZVuWH3jqMylWkJBB+eDpC3n42qTr9m5jd0ZAPYv5II+NMrALEsRi5IH2L4qJIcbWVFCj0kJ2HklRudH9Vc06I4IOQref3BqSt1JHFWhjfF5vvSNVbag5G4AGpczmRkBQgqUMr3++ryMZKTooQPuSSR8aBYZkK1tz0if/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Gnashing Grudge</div>
+                                                <div class="unlocked">23 Aug 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgH/xAAtEAACAQMCAwcDBQAAAAAAAAABAgMEBREAIRITMQYiQVFhcZEUUoEVMnKCof/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAwT/xAAaEQEBAQEAAwAAAAAAAAAAAAABAgARAxIh/9oADAMBAAIRAxEAPwDdWG2Nc6CorK253gSCqnj4IKtlGFkIAVfbbRGsMvOKy3+8QZXPIjqjLIAfM4wOnr76Y7FDmUrl/wBkFTVOP5NMwz+AD867PKZKtWRaiahJfmS00gQA7MpbxxgbY23I9NYgcHdjVe6DlksRhd2ivN9qo1HE0RqmSQKOrJthh6Y38Do1ztxoaWluFBd7rKPqacKslWXjdHkVTkY3BB01Db2ippp5nWrqkMskNQCytwqMjPnv+NhjOg35hBTrDHtDPV0dRGv28Uy8Qx4DIzj1OrnDRS0HcTsbiGikBPderqY8+HEJnI+QT8arNb4qeZamji4ZFTltGpwJE+3HTPl8aztirVoaCroa223V2+rnYlKR2Uq0hZSGHpg5GmjfqmBe5R3KZBsOdb5A/wArsffA0pQDuFzTampNW09NGnelnFRxqCEyVKqdio3z4dPjbUm+EMLUhIEkb0YkjbqvFKpGR/U6FP2gqBV8ymtNbEXTEsn6bKXYjpv5f7pOW5SVZgjS13FZ5LjTyu7UkgURq++WI6Ab/k9NFofmceNEeb//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Mud on His Face</div>
+                                                <div class="unlocked">23 Aug 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1524,38 +1554,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABAADBQEG/8QAKxAAAgIBAwIFAwUBAAAAAAAAAQIDBAUAESESMQYTFEFRImGBFTNUcXKz/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAdEQACAgIDAQAAAAAAAAAAAAABEQAhAhIDEzHw/9oADAMBAAIRAxEAPwD3nh3FPlqc9q5lMusvq54+mK4yKAshA2H9arzGO/T79SFMtn5vODEwpaYsw4GynbYN78nnbbWz4G5ws2/821/1bSs5RjtTUXa+9F0kIVkdVaQkcKCeN9wG22PbStXi5rPIRyEHy5l4rC071YzVcznmAYxuHuurIw7qykcEfGpmMVJjIoLlXK5ZnS1Avly2i6MrSqpBG3PB0vwdVljS9LIV6ZJfJTpHSH8vdDJt7bn5543350fKztNgo7HUWWxlYSn+PUKF/Gy7/nQhrI2y7E6cFgMt6LF26lOOOe5DPandZJRGiJ5zDcsfn2A+OdtEyXiKvkLFSlkRBVlEjiT1NdiEjaMEP0MOH9gORud9yNXYv0kdKenlcNkZ5Y7k8istN24aUspVx+DwddqSmnmJMgVzjR9RCQHHMw6WA6gT3J+ldjv2X331W0A41Y7Eq7hi1SrHPBjvFEkFby2VVljlYAH2J227k/UNjzp9rOUMjjsVWpqySLcrBofKYLF0yKCu5G3HG3yNTxDmJslAlevFnq0R/eUY1m6x3Hf7jt99VXMk1z0who5YWLF+rYsK9N1jQqQHIJH2B/GjyhBbI5C/van/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Shell and Scales</div>
-                                                <div class="unlocked">22 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAQID/8QALBAAAgEDAwMDAQkAAAAAAAAAAQIDBAURABIhBhRBEzGBYSM0UWVzdIKhs//EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAcEQEBAAICAwAAAAAAAAAAAAABAgARAyESMUH/2gAMAwEAAhEDEQA/ALzp21PdqOeqrLpd1l7uePbFWMigLIQMAfTTRemFBOb1fSpGAO9PH9az0NzZZf3tV/q2m9RVxQSJGwkeV+VSNdzY/HGpzJoXNHJyWWhk3U2u30M0cEl8vbVEh2rGLgdx4zzngfONCV0L00kM9vuF4f0qiESCes3oN0qLtIGd2Qx88Y+umtZU010aIpGgnRJCiSAF9+8Kgx787WOD4znRPVYWK1UyRqqKa6lAVBgD7ZfGghp1jzaIP3A+kaqKmoBTMJC8lbVhSqkrkSscZ9snwNbukNwqYamIPPDPOrxFshoymVfHkDax+RjyNTtCa2m9SF4bovpVk7hYqWTkM7ncHGRyCOcZHgjT633CitsRMNqvKE8EdpK+OckLknAySfnQl604bnS1Ptyhp6KmhlM0cKCY+8pG5z/I86W9Vfc6EcEG4U3v+oNcT1PCDg2u+cfl76AvN5FwFBBSUF1399TyMZKJ0UIHySSR407RrrJRx35Cmf/Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Karma of Kang-Jin</div>
-                                                <div class="unlocked">22 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAQQAAwIFBv/EACkQAAICAgAFBAICAwAAAAAAAAECAwQFEQASIUFRBhMxYRRxFSIjJLH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwDvPTuKfLU57VzKZdZfy54+WK4yKAshA0P1wzDhIjk5aUmZzgk9v3IwLp0yb0e29g6BB8jg+kZZq+LEi6kifIzxsmv7AmZgGB/6PAJ4ZoTSQOJIYoBC8sqKgX/LKA5Bd3+FVep776dzxkBhOu9rdWxi9LBVWkMTZ3LmZiSsYyJ5uUfXnufHEzOJlxcMFytlcuzragX25bRdGVpVVgRrr0PD0zNft46avaVq7NK8LLFrlcIRtuvUAFvHXW+Nb6qjNaXGpBLI25oFsbO+Ye9HyMR8Bid/vrwQBitrNwWH0rDItaNoJjzi9aTkZQyKombmYdwdEDf6Hngg2KmPgavBXlmrwtBZqyMRJICdyEDuSQWHkHijB2kpVJ6l3G5YzR3LDq8VVyNNISCGHYjXDP8AKiK2C9LMT0WQhop6LSMr7Gih+da3sH61xDMltvT5L6EbpPhwwQWC5k9iEkJXgEZHKB2Gyuyflj9cL3Wk/AijcLKBlq/+0PifcgO/2Oi+OnT6qqZeAJJ+Xic0rM7biiouI+TZ5eg1vpre99d8Z5fMLfXH16ePyoYXq7tz0njVUVwSdkdNcNMjm3XpP//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Voice Vanquished</div>
-                                                <div class="unlocked">22 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+12 others...</div>
+                                            <div class="description ellipsis">+15 others...</div>
                                         </div>
                                     </div>
                                 </div>
