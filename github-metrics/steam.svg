@@ -1433,7 +1433,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        28 hours played
+                                        29 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1441,7 +1441,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 25 Aug 2024
+                                        Last played on 1 Sept 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1450,7 +1450,57 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            31 / 81 achievements unlocked
+                                            36 / 81 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgUAAwQG/8QAKxAAAgICAAQFBAIDAAAAAAAAAQIDBAURABIhQQYTFSIxFCRRcUKhYYGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABsRAQEBAQEAAwAAAAAAAAAAAAECABESAzHw/9oADAMBAAIRAxEAPwDvPDuKfL1J7NzKZdZfq549RXGRQFkIGh+uLaOBexVhsPm8vGs6bWP6tiRvrrffg/At0GvYq8jErdse4fA27ts/0OHFWKQ42nJGSv2/lHlYKV3rRUnpvpxlIIbr+S6mk7k3oIirtNHl8tMikK338ikdQD0IPXrvtxZmcTJi4oLlXK5Z3S1Avly2i6MrSqrAjXXoeGduvNFj8jYkfcjQKoXez7N+5j8cx32/A4w+MMgA1WooPvvV1bYI6+ZGw1+Ron/fBANJqqoO9/Gt8EQxpjbDKo8w3LCMw76mfX/TxIbDla6ADQgjKbbQ0Q2zvt7gqk9t/wCeMPhvJHF1bFWzj8qZVuTvtKjMrBpCQQe41wfqMcNSGE47JyQxDlQyUJOcHr8FTwE4ZUrdPPvFad0W0gYnmhfnHNze3lY9T3IITudcxG+N3iuJDDj5CqlxerIGP8QZATr96H9cKbGWU07VeLF5ONpoyhf06UkAj53vr+uDy+Z9QTHwVqGV8wXq7uXpSIoVXBY7I4dOOvmvQ83/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Death in Despair</div>
+                                                <div class="unlocked">1 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQFAQIG/8QAKxAAAQQBAwMCBgMBAAAAAAAAAQIDBAURABIhBjFBE1EUIiMyYXE0QoGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAeEQEAAgICAwEAAAAAAAAAAAABABECIRJBAyIxYf/aAAwDAQACEQMRAD8A7zp2qXbQ35Uy0t0u/Fvt7WpikJAS4QMD9aZsKJEVvm9ukKc+RJXNOEe6jxzgc40OjkPRelJL7G4qROkk7cE7fWV78d8Z/GdK2Fk5eQvUZb3BpAU6kH7k7vuCRk4BAOOTwO4J1Tqv2bfdzadXH6egRIiBTlrfB5J2LCpik5I7KAI4BGCPwdZuap2raYmRrW2UtEphPpuyitCkqdSkgjHPB1DTOniGWky1tF9G4vp8oSSCsqBOVc5OOMJIHjV6wSWelq8FThLk2Mv6iypQ3PpUBk89saCkhkZGRb9Yz0ahJpJDSgFJ+MlJUD2P1VZ1pDiRemXVrXuEZzDbbgBUQSr5UY5OeTyBzjSXTliauJJiSa+1LqZkheW4ilJIU4SCD54OhdVWK5cRl6FW3BmR3QplK4iggnIyVDntj9+PJ07DEeyR45PkTplKQ3DvrFLDUVQTDcBkOON7B7+mAeST59h/zTXVX8OCMDBsIv8An1BqJWXBhWc1RqrYRXwlzCYLhV6pzu7/ANeTjzzo1zciwEBiJAtd/wAdHcUXIS0JCAvJJJHjRZTFwy5GtE//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Sound in Stone</div>
+                                                <div class="unlocked">1 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQB/8QALRAAAgIBAwEGBQUBAAAAAAAAAQIDBBEABSESBhMiMUFhUXGBkaEUFYKxsvH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxESIUHR/9oADAMBAAIRAxEAPwBoqQWbtdpX3LdBMbNnvCltwkccbvyFHsP6+PBSDZ2EUrWd53lSFXwi8QFLYwORlj/wZ1OziEbcj4z3l6xB5+fVO3GiUMqXN/tsjK8UUalFHJBBUdXtnJx64GfXWIGp3Xu7Q8+wDWqAbhDE27bsY2JR8biW+oI8j8QR6eY1qs056im1Bum7l692CExTWSynMqqwIxyCD+dGdwrR/qK9gRKWWcBm6fPxPxn5gff31R2gcCoWQELNepsPpIin/OnHRIZGySrsqe6ohuDHBdtB8+WWmOD9MHRSpBFA5mrHoRpTGzA+LnpA4PGOPzpVoz2aNaauKG5NItudnUVXIdTKWVlYceR1o2/dL9GaUtT3QwSEnDUWbB9PCDkH0JBIOhYAJL41VIz7kZDSm6cyGGWJj8Th1J9hxpeuN3kEJiKmL94jDDPC5kQ4H8g33123v1mWIwmjuvJBLjbZFxg5HAJz8uPfQ9LD9NWvBR3Fma/BMzGlJGoAcFskjgABfmcnjS1hjHjanc//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Temple of Taint</div>
+                                                <div class="unlocked">1 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQDBv/EACwQAAIBAwQABQEJAAAAAAAAAAECAwQFEQAGEiETFDFBYVEiJXF0gZGhwdH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAgME/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMSITH/2gAMAwEAAhEDEQA/AO827anu1HPVVl0u6y+bnj4xVjIoCyEDA/DSi7XXJzer6VIwB509fxrDatVHRbZq6mcsI4quqYkKXOPFb2HelIJLxNBFIKagTmitl5JOsjOCOP8Aeq6hhNPJa5Zx82SRbVjUdXa+k/nm/wA0dX0L0cCV1Fdbs/hV0MIWWqLo6mVVbIx2OyP01rbq1p4XaqieaWGRYak5KhXIJPLkcKoOFwPqD6ao3D4wt0TSRrDEa2jjiiRgcDxlJJx139B7DQ5mkkNiwWYDR1bNt2voYVC8KmtLzE9gozOeOPQ9jBPz0dMILbcSsHlVXnLGvPLZZGDnon0J8Mjr0zqXbtVFbIqmKqtNxaqFVUZkShZ+SNISMN7gjTD7ghVQWtl4wD0PIMe/jRXM9jyLr1IPPVW6mhMdNT8rhFkq8ZwSVlKgHvGWCMPTH76q3JWT1DW2BIowiXCnad0k5ov2xxUHHrn29sfI1S246bLBrReSTjP3cxyM51FeLwtetBBR2+6hhXU8jF6J41Ch8sSSNLmfYVHsLWf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Enduring Echoes</div>
+                                                <div class="unlocked">1 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAsEAACAQMDAgUCBwAAAAAAAAABAgQDBREAEiEGQRMUMVFxI0I1VGFzoaOz/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAeEQEAAgIBBQAAAAAAAAAAAAABAAIREiEDEzFRYf/aAAwDAQACEQMRAD8A3nTtqe7Q68qZdLutXzdentpTGRQFqEDA+NQulsMWSlKPdr3WYsoZPPEbQTzzj2Hf3GnHQ34LWz+dlf6toSayUJMhKlRhyWDjcc49FI7+2fnVODUmze3cT1AaMWD5Ust7vZrLjxE8624LjJIUj4+M6MulsrW6NGnR7ndvEEmODSqyzUQhqiqwPHPB1Rc6bCcsepRZWqUy1NGbcGIHA9z3AXOfUHPGnPVTFbREBG0tMiAgdvqpx/GjHDBs7V+yHRQC2eso+2bKH9zaudXhzGeST4GWNKoq+hY+jN9uCeCRjSfp+5Pa4MqLWt10eusuQ42RHZWDVGKkN7EY0NJ6iudahWp17DczSqjaV8sRtHHAwTnvyf049dPYAkXp2tdTxGFOOJlyirDqNUNGoplOA5poFO7apJALZAAwDxknTHqrmHBHHNwjZz+4NZ+J1PcYiJSax3uRTUKD4lA7l45wRxjvjRd5vIuAgUIkC67/AD0eoxqQnRQgfJJJHbRsYY2l9jJxP//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Cage of Claws</div>
+                                                <div class="unlocked">1 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1504,58 +1554,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYCAwT/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGEzEUQVEiI3EzQnKhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAeEQEBAQACAQUAAAAAAAAAAAABAgADESESIjFRYf/aAAwDAQACEQMRAD8AvOnbU92o56qsul3WX1c8e2KsZFAWQgYH40ovS65ObzfSpGAPWnj+tZ6LkSKw1Ekzqka1lUWZjgAd1uSdeW89RTNWtRWooweFmWdSHxgH615xhcEHI/BJ40R6SRd1ryVaThb1TtR1xp7ddb1L2kJmb1hkGfjhgQQcAjHuNbt0/q7VHc6K53TvQVsEMkT1hljIZ0B9uQQ2iopEe5QJIGeRpBJUduXvJOzYOCqYO7jdgY28AjxmurpLa/TlPJZVRKWW4UowiFORKg8H3wBozz2579pI4wVUlF0riNY2jNzqFkZgTtxMxBAHnn/BjnUoYqRJXaWIVEZpQUiL7RMy8AblH0ru9uCSCNV9A6RWyooay3XTvx100yOlGzj9UupDfBGASOcHU9WW+qjjYpba2d3Uq7mlmUv5bBHP7tuP4gn41lHxr4qBT93BZPvUypK/Zg2MUhiKd5wRtZEONqgHBcnk+TzqxWimounrfHUQR07Pc6djAsYXt/d9yCdxwBzo/pOoS0RTistV0Z5AAO3QSkBeTggnHGQOPONKXm8i4CggpKC67/XU8jGSidFCB8sSSPbVSAduPlqmiQ8fe//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Behold the Betrayal</div>
-                                                <div class="unlocked">23 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABQMEAAECBv/EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwQFEQASIQYUEzFBIiNRYXGBMzVDkZWh0f/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAGhEBAQADAQEAAAAAAAAAAAAAAQIAERIhA//aAAwDAQACEQMRAD8A9507anu1HPVVl0u6y93PHtirGRQFkIGAPlpMdMKCc3q+7SMAd6eP61nRTbLDUOQxC1lUfZGT+K3pqS83MeDHH28ixSkFjKNp2fELnI+pxqoDnbmqqttkzmPpaJB+bXwn51zf5qreLVJbIoKylut2Z0qoF8OWqLoytKqkEY54OlrVXS9nEKmMtIE4Kke3j5E+f31B1TKGtNMynh66lXg5/WXjj6aaGtmRmr7BcodLusdsePuZoSKyrG2NNxk963lwfLOmILZFIsjVMRIkGNrtubHxZvVj+wHA9dB9OXI2ujqaSpt91MgrKh8x0jsrBpCQQfXg6UbqKJVJa23nHljsXJ0Smvcf0K6eTEjEIMGOPdAVCtGBnGBgED144I0R1FNTmkoIIGiBFfS+7GAVHiDnb9tbPU8IODa75/Hvo+83hLibfFS266GUV1O7PLQugVA4Le0RxoqjXmKIroUz/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Passion Passes</div>
-                                                <div class="unlocked">23 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQGAQP/xAAsEAACAgEDAwMBCQEAAAAAAAABAgMEBQARIQYSMRMUQZEVQlFTYXOBoaOy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAcEQACAwADAQAAAAAAAAAAAAABAgADERIhYUH/2gAMAwEAAhEDEQA/ANxhaAv423fyWXysXZZsKxjusiKqSEDj44415JHV9F5pMp1HGhVisclsqwUCNiSNt9x3/wBaZ6QgSz09Yil3Ktds+DzxMxB+o0pOt2rWln9ytr0kZykkQUsANyO5fB4/DVQXQDNbWY5Hsy/sq0LxxnJ58yNKYyPeOSQJTGdht+g+uq8jjzTp1MlQy2WkBsV9kltF0ZXkUEEbc8HTdRTlIpLBs2okMjLGIJSmyDjnb5Pn+dS9SxR1cLTggXtiW5URV332HrLqcetgFhLAeznRQC4eZR927aH+zaaucU7G/wCU/wDydZTpzInF1LNSzj8qZVuWH3jqMylWkJBB+eDpC3n42qTr9m5jd0ZAPYv5II+NMrALEsRi5IH2L4qJIcbWVFCj0kJ2HklRudH9Vc06I4IOQref3BqSt1JHFWhjfF5vvSNVbag5G4AGpczmRkBQgqUMr3++ryMZKTooQPuSSR8aBYZkK1tz0if/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Gnashing Grudge</div>
-                                                <div class="unlocked">23 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFBgH/xAAtEAACAQMCAwcDBQAAAAAAAAABAgMEBREAIRITMQYiQVFhcZEUUoEVMnKCof/EABcBAQEBAQAAAAAAAAAAAAAAAAIAAwT/xAAaEQEBAQEAAwAAAAAAAAAAAAABAgARAxIh/9oADAMBAAIRAxEAPwDdWG2Nc6CorK253gSCqnj4IKtlGFkIAVfbbRGsMvOKy3+8QZXPIjqjLIAfM4wOnr76Y7FDmUrl/wBkFTVOP5NMwz+AD867PKZKtWRaiahJfmS00gQA7MpbxxgbY23I9NYgcHdjVe6DlksRhd2ivN9qo1HE0RqmSQKOrJthh6Y38Do1ztxoaWluFBd7rKPqacKslWXjdHkVTkY3BB01Db2ippp5nWrqkMskNQCytwqMjPnv+NhjOg35hBTrDHtDPV0dRGv28Uy8Qx4DIzj1OrnDRS0HcTsbiGikBPderqY8+HEJnI+QT8arNb4qeZamji4ZFTltGpwJE+3HTPl8aztirVoaCroa223V2+rnYlKR2Uq0hZSGHpg5GmjfqmBe5R3KZBsOdb5A/wArsffA0pQDuFzTampNW09NGnelnFRxqCEyVKqdio3z4dPjbUm+EMLUhIEkb0YkjbqvFKpGR/U6FP2gqBV8ymtNbEXTEsn6bKXYjpv5f7pOW5SVZgjS13FZ5LjTyu7UkgURq++WI6Ab/k9NFofmceNEeb//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Mud on His Face</div>
-                                                <div class="unlocked">23 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAQb/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGExQxQVEVInEyUmGBkf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACESEScf/aAAwDAQACEQMRAD8A7zp21PdqOeqrLpd1l8uePbFWMigLIQMD8aNNaI4aqeE3PqFkji3s/m4RM/JxnONM9HVMFPZm8iaOMvXVIUOwG495vTTDLU00lTAYJJz900ZjAbeWLDLjIyBkDB/bwfjIDCddrWLpJsVnRTRnzb8YaltgmFyJVcjIyMZ5x8aLeLVJbIYKylut2Z1qoF7ctUXRlaVVIIxzwdNNJLHPCopZYzUbVeHgDepBBGCQpwCcenqc8aD1B5KwFqqbLNXUiLEn6AveUg/n1B/GjDGBazY7JtJQwSdMVE7xK8sFbUAtk8J323D/AA6uVfYulR4qVLRd5FkhdH5k7ZOcAHJH3Dn3I49NQLbM9PSzUFbbbhLCKuod4xSSMsm6QlW3DgjHOPnnRHS3pGrC23eN1ZcFaGQkAEnAOc55PvgfGkPJVhV+8l6KmaiuEKvUzV1TKzSENtUhQpAZsewyBn+tC6nhcx2+aSQZ86mTYowuO4Dz7nkaSju1NDc2qY7ZelDJhx9OcsTjAO7PIx7fwNZebyLgKCCkoLrv86nkYyUTooQPkkkj201MZBW3ocn/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>The Soaring Slash</div>
-                                                <div class="unlocked">23 Aug 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+21 others...</div>
+                                            <div class="description ellipsis">+26 others...</div>
                                         </div>
                                     </div>
                                 </div>
