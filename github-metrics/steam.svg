@@ -1433,7 +1433,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        31 hours played
+                                        32 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1450,7 +1450,47 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            41 / 81 achievements unlocked
+                                            45 / 81 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYAAgUD/8QAMBAAAgIBAgMFBgcBAAAAAAAAAQIDBAUAERIhYQYTFCIxMkFRcYGCJDVUkaOzwdH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHREBAAICAgMAAAAAAAAAAAAAAQACESEDEjFhgf/aAAwDAQACEQMRAD8AfOzuKfLU57VzKZdZfFzx8MVxkUBZCBsPlonJYWLH1HnkzOdffaOKIXTuzsdlUct+Z/3RfYb8lm3/AFtr+1tUhd8vYbJ1zG4iV1xkUrcKyMOTTHofQfAbn36kBgmttbu70Tjh+zwmpgz5XNrajJimUX22Dr67cvQ8iOhGpmMVJjIoLlXK5ZnS1Avdy2i6MrSqpBG3PkdbnGsF8TIV7qZhDMAd+CUDyn6+yft0J2ubhxlfn7V6qP5l/wCaLUCJXks3M+GKnirUeCjxtWtK8dq/ajlkVwgdRKxMSt7ncbgb/Lfc6dqAx9+OraqRRsa6lIvJs0AIAKbeqnkAR00s4ezFWxlzG5LFZKYG3OzAU2dGVpCykH9juNVmtLExc4u/dX0Hi6EnegfDvF3LfcN+ulq4lL17KHv7G6WpVkisQMiJ4okycOwZm2A4vmNhz6DWJlpLEmHx63F/EJkq8UjEbB+GUecdDyP11nx5+xH5K+BtU+XNxQklIHQALv8AU6l7Jm1FQrwVs1PMb9eWSSxSeNQofcn02UD4aLYTUWvHaqZn/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Marvelous Melon</div>
+                                                <div class="unlocked">5 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQFAAb/xAAsEAACAgIBAgUDAwUAAAAAAAABAgMEBREABiESEzFBYRQVUSMyNWKBlaHR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIREgMhMVHw/9oADAMBAAIRAxEAPwDu+nsW2WpzWrmUy6ym3PH4YrjIoCyEAAD45UXphfEd5rOEEaC/Wnt/ri/ShLYORIp0is/XWWi8eiGPmt2I9wfjjWKtyT3LFidpo6zWFjhVj+5/AQ4GwCEB3/cH21zIDBmdV7X2th8TR9LRIP5fOE/N5v8AnFMxipMZFBcq5XLM6WoFMctouhVpVUgjXfYPKM0s2Qt1JKbvV8qeRUkddpMAvoV2CVPcg/0jkfKR0xXElexYsTrdrRO7k+EeKwHIGu29k/nQ0OHGOoo2U2ZR6QiV8FYiZVcC5aGmGwT5rcFk6cTiljVW2j2bCu/nN5iSKmmckknvoAA9j6cW6cyJxdSzUs4/KmVblh9x1GZSrSEgg+/Y8NkMnHNeoXUp5mKSo7jX29m8xGGmXXt6A7+OOtSEscin3qVmqfcECSpDDUisFhFGumYox1sjsAfcAenb88D1OqpRoIiqqfcK3YDQH6g9uCPU8IJBxec/x78QzOZGQFCCpQyvj+uryMZKTooQPskkj25KmJWtL7GTqf/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Boundless Bitterness</div>
+                                                <div class="unlocked">5 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQMEAAIG/8QALRAAAgEDAgQEBQUAAAAAAAAAAQIDBAURACEGEhMxFDJBURUiI2GBNFJxo9H/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIDBP/EABoRAQEBAQEBAQAAAAAAAAAAAAECABEDMSH/2gAMAwEAAhEDEQA/AO6sFra6UNRWVt0vCyCqqEKw1bKoVJCBhR9tIwcPwTLzx369PG3yjFce/f2znUXCtZ4Wy8qRNPUzV9UsUSnHMRKxJJOwAHc6ZhtSiOENI6lHEzKhGOoARkEjO2fzgaqkENq9Lqaf3mOj4cp0mEPxi+GUpz48c3lzjPb31BeLVJbIoKylut2Z0qoF6ctUXRlaVVIIxvsdNCEUFa9VIzSJMipLK53TBPLsB5dz/H5Oq3FzFbZTj91dSr/cv+abJx0Zumg70x3DwVLDIV5hLFXVZWRO6fVbJ+/fGPXOmrX4qOR0rpGeWRBIvsozjlx2BGRnGx0Bw5cTbKSppKm33UyrWTvlKNnUhpCQQfXY6UbiCFMubbeAe36FyTolAM/SaaeGy5QV1w6vQqGjo3zEYQBmUDZhzHyhsEA99QX+upqmityxSIHa4UwMTnDpiQZBXuCNbjiWBByi13sAegt76oXm8JcDQRUluunU8dTu7yULoAivk5Yj00Kc+4ma6dPm/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Corrupted Captains</div>
+                                                <div class="unlocked">5 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYCBAUB/8QAKRAAAgICAQQCAQMFAAAAAAAAAQIDBAURIQASE0EGMVEUYYEicZGh8P/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwX/xAAeEQABAwUBAQAAAAAAAAAAAAABAAIRAxIhMVFB4f/aAAwDAQACEQMRAD8AYcbO1/MVaE17NG5ZtWC5itMkaRJI4419HQ/7fTQ+CrQp5Jc/mREzeMH9d/SGJ196/I99LeIhmkW28MoR1ksrsoX0jySKW7RydH8b1sE9MOL+OQz4GCLzz2Krr+pVGPazSMv2WHrn/f31BgnxaFYhp3CPS+O1p66TQZnOPG42rG8w2P7EdBzGKkxkUFyrlcszpagXxy2i6MrSqpBGueD1e+KX4HxkEDSlJgQqwyAKV7gWVV0T3DQOjv0fx135VMr4qu0bh1a/WTanfInUEf5HTwLZCgHPFS09VH47Uqz/AB6wLVdbHht3GUc92/I++0jkE/XHWTi8hemxNSvPWaOVkAR5LTKqKZRGp7F02wSByd8dXsDkZMZQt1JKGTFkWrDqy02dD3SMVbfscjrOwavWxl2POwZe1PY7kDQ4918aFy+l/fuPdv1xr66TirGXE9x8UsJhLdChcvXpYZoI6weLxL2uJI5GJ/ng8+yx/fo1i43elRgfHJk60yd2h27kGxxxyVJ44B3+epYyalRwz4qer8luVS3dqak+wuwe3Y9bG/5PQ781ezeqTVMflTZa3WG3ovHHDCrgkDjj0SfeujQwmkucS5f/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Thousand-Mile Quest</div>
+                                                <div class="unlocked">5 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1514,48 +1554,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQFAQIG/8QAKxAAAQQBAwMCBgMBAAAAAAAAAQIDBAURABIhBjFBE1EUIiMyYXE0QoGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAeEQEAAgICAwEAAAAAAAAAAAABABECIRJBAyIxYf/aAAwDAQACEQMRAD8A7zp2qXbQ35Uy0t0u/Fvt7WpikJAS4QMD9aZsKJEVvm9ukKc+RJXNOEe6jxzgc40OjkPRelJL7G4qROkk7cE7fWV78d8Z/GdK2Fk5eQvUZb3BpAU6kH7k7vuCRk4BAOOTwO4J1Tqv2bfdzadXH6egRIiBTlrfB5J2LCpik5I7KAI4BGCPwdZuap2raYmRrW2UtEphPpuyitCkqdSkgjHPB1DTOniGWky1tF9G4vp8oSSCsqBOVc5OOMJIHjV6wSWelq8FThLk2Mv6iypQ3PpUBk89saCkhkZGRb9Yz0ahJpJDSgFJ+MlJUD2P1VZ1pDiRemXVrXuEZzDbbgBUQSr5UY5OeTyBzjSXTliauJJiSa+1LqZkheW4ilJIU4SCD54OhdVWK5cRl6FW3BmR3QplK4iggnIyVDntj9+PJ07DEeyR45PkTplKQ3DvrFLDUVQTDcBkOON7B7+mAeST59h/zTXVX8OCMDBsIv8An1BqJWXBhWc1RqrYRXwlzCYLhV6pzu7/ANeTjzzo1zciwEBiJAtd/wAdHcUXIS0JCAvJJJHjRZTFwy5GtE//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Sound in Stone</div>
-                                                <div class="unlocked">1 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwQB/8QALRAAAgIBAwEGBQUBAAAAAAAAAQIDBBEABSESBhMiMUFhUXGBkaEUFYKxsvH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAHBEBAAICAwEAAAAAAAAAAAAAAQACAxESIUHR/9oADAMBAAIRAxEAPwBoqQWbtdpX3LdBMbNnvCltwkccbvyFHsP6+PBSDZ2EUrWd53lSFXwi8QFLYwORlj/wZ1OziEbcj4z3l6xB5+fVO3GiUMqXN/tsjK8UUalFHJBBUdXtnJx64GfXWIGp3Xu7Q8+wDWqAbhDE27bsY2JR8biW+oI8j8QR6eY1qs056im1Bum7l692CExTWSynMqqwIxyCD+dGdwrR/qK9gRKWWcBm6fPxPxn5gff31R2gcCoWQELNepsPpIin/OnHRIZGySrsqe6ohuDHBdtB8+WWmOD9MHRSpBFA5mrHoRpTGzA+LnpA4PGOPzpVoz2aNaauKG5NItudnUVXIdTKWVlYceR1o2/dL9GaUtT3QwSEnDUWbB9PCDkH0JBIOhYAJL41VIz7kZDSm6cyGGWJj8Th1J9hxpeuN3kEJiKmL94jDDPC5kQ4H8g33123v1mWIwmjuvJBLjbZFxg5HAJz8uPfQ9LD9NWvBR3Fma/BMzGlJGoAcFskjgABfmcnjS1hjHjanc//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Temple of Taint</div>
-                                                <div class="unlocked">1 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQDBv/EACwQAAIBAwQABQEJAAAAAAAAAAECAwQFEQAGEiETFDFBYVEiJXF0gZGhwdH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAgME/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACEQMSITH/2gAMAwEAAhEDEQA/AO827anu1HPVVl0u6y+bnj4xVjIoCyEDA/DSi7XXJzer6VIwB509fxrDatVHRbZq6mcsI4quqYkKXOPFb2HelIJLxNBFIKagTmitl5JOsjOCOP8Aeq6hhNPJa5Zx82SRbVjUdXa+k/nm/wA0dX0L0cCV1Fdbs/hV0MIWWqLo6mVVbIx2OyP01rbq1p4XaqieaWGRYak5KhXIJPLkcKoOFwPqD6ao3D4wt0TSRrDEa2jjiiRgcDxlJJx139B7DQ5mkkNiwWYDR1bNt2voYVC8KmtLzE9gozOeOPQ9jBPz0dMILbcSsHlVXnLGvPLZZGDnon0J8Mjr0zqXbtVFbIqmKqtNxaqFVUZkShZ+SNISMN7gjTD7ghVQWtl4wD0PIMe/jRXM9jyLr1IPPVW6mhMdNT8rhFkq8ZwSVlKgHvGWCMPTH76q3JWT1DW2BIowiXCnad0k5ov2xxUHHrn29sfI1S246bLBrReSTjP3cxyM51FeLwtetBBR2+6hhXU8jF6J41Ch8sSSNLmfYVHsLWf/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Enduring Echoes</div>
-                                                <div class="unlocked">1 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAsEAACAQMDAgUCBwAAAAAAAAABAgQDBREAEiEGQRMUMVFxI0I1VGFzoaOz/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAeEQEAAgIBBQAAAAAAAAAAAAABAAIREiEDEzFRYf/aAAwDAQACEQMRAD8A3nTtqe7Q68qZdLutXzdentpTGRQFqEDA+NQulsMWSlKPdr3WYsoZPPEbQTzzj2Hf3GnHQ34LWz+dlf6toSayUJMhKlRhyWDjcc49FI7+2fnVODUmze3cT1AaMWD5Ust7vZrLjxE8624LjJIUj4+M6MulsrW6NGnR7ndvEEmODSqyzUQhqiqwPHPB1Rc6bCcsepRZWqUy1NGbcGIHA9z3AXOfUHPGnPVTFbREBG0tMiAgdvqpx/GjHDBs7V+yHRQC2eso+2bKH9zaudXhzGeST4GWNKoq+hY+jN9uCeCRjSfp+5Pa4MqLWt10eusuQ42RHZWDVGKkN7EY0NJ6iudahWp17DczSqjaV8sRtHHAwTnvyf049dPYAkXp2tdTxGFOOJlyirDqNUNGoplOA5poFO7apJALZAAwDxknTHqrmHBHHNwjZz+4NZ+J1PcYiJSax3uRTUKD4lA7l45wRxjvjRd5vIuAgUIkC67/AD0eoxqQnRQgfJJJHbRsYY2l9jJxP//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Cage of Claws</div>
-                                                <div class="unlocked">1 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+31 others...</div>
+                                            <div class="description ellipsis">+35 others...</div>
                                         </div>
                                     </div>
                                 </div>
