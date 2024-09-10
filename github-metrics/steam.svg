@@ -1433,7 +1433,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        33 hours played
+                                        34 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1450,7 +1450,27 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            47 / 81 achievements unlocked
+                                            49 / 81 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAgYD/8QAMRAAAgEDAwEFBAsAAAAAAAAAAQIDBAURABIhMQYTFEFhFSJxgSQyM1FSVJGjs8HR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAdEQACAgMAAwAAAAAAAAAAAAABAgARAxIhEyJB/9oADAMBAAIRAxEAPwDednbU92o56qsul3WXxc8e2KsZFAWQgYA9NMj2ZVQ7G830rtOF8aePnjV+w3Nlmz+dqv5W02qqh45Ehip3meRGYYZVAAwOST6jVaqKBM0ZMjByAZnbJY4qygWf2rfMn3T9Oby+WrXi1SWyGCspbrdmdaqBe7lqi6MrSqpBGOeDph2Wfubf4ede6lSQrtJBz5dfXadT2ubFsp8H61dSj95f80UNbj3byV8uLuzFYKS0yxgLkVdUSzHA+3YcffyfTA667yVMvirlVTTiPu6TZCE6DJ5YHnJ3Y+HGl1mrXoLZW0MtBcxUiqqWR1omkUbpGKsD0PBGivH00cYJoL4AESPa1C0hwvTqD58+p50geCSZfYmodBQE0ZmtsxSRkdXiqCZkkbkjcMjBzzx+LQ91RBZrY8e4rNXUjkO2duXBwPh01SgvdNQiRI7bfSrOHx7PfjgD+tCV9zWpprbR0dDdSUroHLSULxqqCTJySPIY/TQSKiCvt2f/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Secret in Purple Cloud</div>
+                                                <div class="unlocked">10 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBAwUC/8QALRAAAgICAQEGBQQDAAAAAAAAAQIDBAURAEEGEhQhMWETFSIjMhYkUYFxc5L/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAHREBAQEAAgIDAAAAAAAAAAAAAQIAAxEhMUFhgf/aAAwDAQACEQMRAD8AfOzuKfLU57VzKZdZfFzx92K4yKAshA0P8ctXG0Dlfl6Z/OyWSrbjS2zCLQ39TAaB9id8nCSzQdi8nLXJEqWLZVh6r91tke4Gz/XGqpBDWrpDVULAo+kL19z/ACT675lMiG6uS2af3LDYnH1rvhJ83nY5igYGS66qwJ1oMRon29edZnFSYuKC5VyuWZ0tQL8OW0XRlaVVYEa8/I8Z7csEFSaS4yrVVC0vf/Hu9d8Wr7z/AKRxRtB1mezUBV/yA+MugffWt+/KgaRdUj94nsYq/JZ42AZfGWlYdD91t81cSjQ0I67nbQbh2eoU6U/893i12cyJxdSzUs4/KmVblh9x1GZSrSEgg9fI81D2ghQM5xuYG/X9i5J4lANOSKaej5xWWTxN3GVnG4WlaaQdG+Gu1B9u8VP9co7VedOj6HeQrb3/ALBwaTtFWaaN2xec78W9aoP1GjwPM5kZAUIKlDK9/wAdXkYyUnRQgfZJJHTho6ciK7nx63//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Loong Pattern</div>
+                                                <div class="unlocked">10 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1534,28 +1554,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgMBBAUG/8QAKxAAAgICAQMDAwMFAAAAAAAAAQIDBAURABITIQYxURQjQRUicSVhYoGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABEQACEiExUf/aAAwDAQACEQMRAD8A7z07iny1Oe1cymXWX6uePpiuMigLIQND+OaL+m4olZ5c5mki1r914gL/AL1yPR0oiwE7Fl6/rLZUMwHVqVvnjctk4rWPFeukkotfZdu0321I2x6dedKG9t68cqAGezVa19kDxynj8HHKQWymaCSE9v8AqLFta2Ooa8EjZ18cLMYqTGQwXKuVyzOlqBe3LaLoytKqkEa8+DyIZ8T3qopRyVXaWTqSF27mljOjoH/Ifx5HHZ+xJPjoZAsiwNcqInX7n7y+eCCMbtsfIHpKn3cVODK6oL1jYQ6J1M+xv4Ox/wA4MMlmzduZHDwxogUV0NnSKZB4Y69+oEBT89PFensi2MpWqk9DKd5bdhwyU2dSGkYqwP5GiOFFYx8NWFZcVmTJHrcqUpFZ3/LHR8nZJ8/PAJCMg6sVL1KS3eyb/X4wBoIkiLtIpQMT1MQPfyOnj/VI1SoKAOn9Qqj+wHcHMzGZxai2O/S9QSvLM0h6qLN0j2Gjob8Ab4OZzIyAoQVKGV6/rq8jGSk6KED7JJI/HBhSOLbHOT//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Gleams of Gold</div>
-                                                <div class="unlocked">2 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQGBQH/xAAuEAACAgEDAwMBBwUAAAAAAAABAgMEEQAFEgYhMRNBUXEUFiIjMlRhdYGRs/D/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAHhEBAQEAAgEFAAAAAAAAAAAAAQIAERIhAxNBUWH/2gAMAwEAAhEDEQA/ALGlQu39kuX0ubtPdW1NGsMd1kTispHYD4HsPONM1aUPHjf3LqOpZMasKz2yWbPb8HHPLvkY8/ONa3Q3fZZs/vbX+1tEpzrZ6uvxzqoapCqVsjuQwBlYH5yUB+Bj51Ik4Hdleo9qPrZY2yCsqtcudTVomIX1pbuVX45cSeP1Pb+dH3napNriguVd13ZnS1Avpy2i6MrSqrAjHfsdVZRXUo6q6sOJUjIYHyDqOklY9K1kyWhTdIoIH5Z5xLZAQ5+gx/bWshhF1aP7nukpoqmwWZJ5FjiiuWuTsew/ObU6rbh1L1Gb21QGHbYGw8hk9JpXUYBVsHD4OPGMdjn2QSDcZbMm33Ku4R7dFbmlLRVXdn5SMe2O2SD+rPYeBnVnW3mpRqRwVto3aGvGOKRpQfAH8AaA9gH41aPbWp8rhWaO83ac9drFqJXjK8neE+3twXJ/yNd3P0/u/sqwBBF9qpgAeAOYz2+ujHqeEHB2vfM/099YO6vSubrQtUNr3WO2bcBkY0njQoHyzNkeR/3jSUDxhBSnY43/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Buried in the Sand</div>
-                                                <div class="unlocked">2 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+37 others...</div>
+                                            <div class="description ellipsis">+39 others...</div>
                                         </div>
                                     </div>
                                 </div>
