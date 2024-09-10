@@ -1433,7 +1433,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        32 hours played
+                                        33 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1441,7 +1441,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 5 Sept 2024
+                                        Last played on 10 Sept 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1450,7 +1450,27 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            45 / 81 achievements unlocked
+                                            47 / 81 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQQCBv/EACYQAAICAgIBBAMAAwAAAAAAAAECAwQFEQAhBhITMYEUQXFRYbH/xAAXAQEAAwAAAAAAAAAAAAAAAAAAAQME/8QAGhEBAQEBAQEBAAAAAAAAAAAAAQIAEVEhA//aAAwDAQACEQMRAD8A7zx3FPlqc9q5lMusv5c8fpiuMigLIQND+cum8fjheNWzOeYzN7aILh+dEk718AA9nm/DpUg8fnllOlW7Z/3vczAfezxgGrkS6guZKsujraPG+vo/Dfwg8rmRDabui3zCY3AVrVVZ4ctn/SxKkPdYMCCQQRrogg8xmMVJjIoLlXK5ZnS1Avty2i6MrSqpBGu+jx/3YqUsNOGGR3dJJFVO+l0SSSfklh9nhOevRXcDTsQesJJerLp1KsCJ1BBH6III+uEAybto87s+J14p/H7NeZfVGbtkHR12JmIII+O9HjKx1sZWnm2wBPuSyOxZ3PQ2SeyfgD6HOa8cyJxdSzUs4/KmVblh9x1GZSrSEgg/vo8vu5qtYqyRWMZmfbfogUn3vewRr9ggHiU5ouabfO5MyVbtxq8iSparqJB6laNgD1tWHyOtHR/vIfI4khx2OhiULGuQqgD/AAPcB/7yWLPQRTNLJj89LOVCF2x7dLvehrr575PmcyMgKEFShlfX+dXkYyUnRQgfZJJH64aOZP50UfPm/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Devoted Disciples</div>
+                                                <div class="unlocked">10 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYBAgUH/8QALBAAAQQBAwIFAgcAAAAAAAAAAQIDBAURAAYhEhMUIjFRYSNBMjNxgZHR8P/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAAIE/8QAHBEBAAMAAwEBAAAAAAAAAAAAAQACEQMSQSFR/9oADAMBAAIRAxEAPwB827VLtob8qZaW6XfFvt9LUxSEgJcIGB+mjZNCxGSS7e3SeoEISqcRz8cZOp2m+I23ZDqvQTJRyfQAOqJJ+NLc25lbmZfXVtuPMQVqcU+30pOMDyp59eCeoew9yNJ0A/ZtC9ruOAxiY2834jti2vCgeUrE5R6lj1SOPt7/ALapb1i65pmZDt7VxbcphBbcl9xBCnUpUCMex1lbHnmwtZkK1efDsb6bcdRKAeSSTgjOcjjGNM+6wlqqjIbSEpM6KkBIwPzk/wBahjXSC3anIUWAbcjNyaB2K60h5CpstJQv8Cj3VkA/GcaGTFTX3Llc4+6GnGO61hCWmGUBXnAA5J6injU0M0QIEqDMrrVSvFyFEtxFqSpKnCQQofB1hbnTaWKBHYRZiD1EJLsJwutgjnBHP+5OONBQqS1ardF+MX9yhEHc9Tax3PFI7qep1CSgLAX5eSfXp4z6ca6turmJBxgg2Eb+O4NI1dS1DEBMSyibmsEJJPQ5DcDYz9wkHgj3B1vTLFt2FU19fAtyGJcXzPQ3EgNoUMkqI+wGhT4O+xnM92ueez//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Lust and Dust</div>
+                                                <div class="unlocked">10 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1534,28 +1554,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAECBv/EACgQAAICAgEDAwQDAQAAAAAAAAECAwQFEQAGITESQWETFCNRIiSRYv/EABcBAQADAAAAAAAAAAAAAAAAAAABAwT/xAAdEQABBQEAAwAAAAAAAAAAAAABAAIRITESIkFh/9oADAMBAAIRAxEAPwDvOncU+Wpz2rmUy6y/dzx6iuMigLIQNAeO3Hnp+vGhkkz+YETAgE39D50dd+CwsbWumZacTAWJ71kptiAAsxJLa9vbXvscZUxwxOEkmsrVu2Y5SzOV2sY9Q2F7dtefbvyoARi2PJ6N+8RkxlMfT+3ynUFlHJUSR3+xI8gbIJI9wAdc1kceadSrkaOWy7/2YFCTWSysrSqrAqR8nkioDqaFLqzJDIsjLLqMlZVPjY351oE++u/E9QUjQx9ZYJnNd7tYGNjvTfVj0V/Q/idj55EUTCdeQaTaN0YkdVLU9hyA1qxFHIT/AAX8x2vwdjY/ezzMs+UpZueOCGwyWLHrWNdFHBOzot2G1BJ7+eTB3FpY65j72Nyjk2rBb0VHZWVpCQQR57a41cpXhnjsNS6gdo1ZFElWR/OtnX77cDBaOnsmJVt27ZneIRS1mUfjrxS/8g7/ABqd7J17aI4a7bntYvH+tfqwHJQKthm0zASjRZSAQda5b+Up25hI+P6iilVfT64abqSvz+/J/wB4e3fhkrY6ljsfl+1+CVmmpyKAocFiWI9u3+cE/Ua3KX//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Oṃ Maṇi Padme Hūm</div>
-                                                <div class="unlocked">2 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgUAAwQG/8QAKxAAAgICAAQFBAIDAAAAAAAAAQIDBAURABIhQQYTFSIxFCRRcUKhYYGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABsRAQEBAQEAAwAAAAAAAAAAAAECABESAzHw/9oADAMBAAIRAxEAPwDvPDuKfL1J7NzKZdZfq549RXGRQFkIGh+uLaOBexVhsPm8vGs6bWP6tiRvrrffg/At0GvYq8jErdse4fA27ts/0OHFWKQ42nJGSv2/lHlYKV3rRUnpvpxlIIbr+S6mk7k3oIirtNHl8tMikK338ikdQD0IPXrvtxZmcTJi4oLlXK5Z3S1Avly2i6MrSqrAjXXoeGduvNFj8jYkfcjQKoXez7N+5j8cx32/A4w+MMgA1WooPvvV1bYI6+ZGw1+Ron/fBANJqqoO9/Gt8EQxpjbDKo8w3LCMw76mfX/TxIbDla6ADQgjKbbQ0Q2zvt7gqk9t/wCeMPhvJHF1bFWzj8qZVuTvtKjMrBpCQQe41wfqMcNSGE47JyQxDlQyUJOcHr8FTwE4ZUrdPPvFad0W0gYnmhfnHNze3lY9T3IITudcxG+N3iuJDDj5CqlxerIGP8QZATr96H9cKbGWU07VeLF5ONpoyhf06UkAj53vr+uDy+Z9QTHwVqGV8wXq7uXpSIoVXBY7I4dOOvmvQ83/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Death in Despair</div>
-                                                <div class="unlocked">1 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+35 others...</div>
+                                            <div class="description ellipsis">+37 others...</div>
                                         </div>
                                     </div>
                                 </div>
