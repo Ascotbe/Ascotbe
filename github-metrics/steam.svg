@@ -1450,7 +1450,47 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            49 / 81 achievements unlocked
+                                            53 / 81 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwL/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMEBREAIRITMUEGFCJRYXGBkSMlQqGx/8QAFwEBAAMAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAAIDAAIDAAAAAAAAAAAAAAECABEhAxIxQVH/2gAMAwEAAhEDEQA/AKe3CWqjrpa2uuokSaXg5dwMaviZlCquOwB/GqhPDC8TA3q+HbBXzx9P9aW2G1C4WeKdBEKqmuNU8bOOxkcEZ6jrkHsQNGU0q2K7VRrJJqiSqenSPhXJZiGyT7+oHfVKjNm3kYkkIdEyrrPTW5IXku97MTyct5DcGxGMZydvYH8aHnpZYKOO4U1xuwMddFCI5asyI6mVVbIxvnJ05tNshmtdxgdzJBUTSxqcdFXKAj52O+g7xTVFHZ6ZJ3hx5ukjCwBgpPOUliD0J740kZcir2et+5z4Xr4qG2PFKrcJq6s8zIC5Er7fU7D7jW3iKme9WekradJf0XE6xBQWcBhkrn+WAcfXrpLTLEbRU2+tt1yNTHWzyxSLRu6gtISrZBGQRjTa33daTnyTWy5oZCoEcFFKVUKMDAJ229sDYaAcoxZabuvm4ze4SpDVVkSs9IiJwI8ZjOc+o7743HX50qutzFyhg5CA0yV9HiQ59RLg9Pt/nvow+J4QSDa72ff9vc7anJ5A09tjoqW6FIquEKrW94gsfNDHiY7Hh7bD50s3ww4+PbIqf//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>A Family Finished</div>
+                                                <div class="unlocked">10 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABAEFAAMG/8QALhAAAgIBAwIFAgUFAAAAAAAAAQIDBAUAESEGEhMUMUFRImEVJEJDY3FzkaPx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQEBAAMBAQAAAAAAAAAAAAABAgAREiEx/9oADAMBAAIRAxEAPwDvOncU+Wpz2rmUy6y+bnj7YrjIoCyEDYD7afL06iRWHGazh7EY9pun6eN/j7anoyZYsLL3rKfztrlULfut8a3I8mRzE0UMyCOOApK/YysyuCAjKwA3B5DA/I251kBozqqr7r3wwuNwEM1aBjls54skCSsPPNx3D/v+NRmMVJjIoLlXK5ZnS1Avhy2i6MrSqpBG3PB01YPwuxFG19USSOISO6nuKxL2hV2Gw3O5JJ434HvqOp7UM2Mg8CVZN71UfT/eXRDWCqbPdjmdFALh5lH6btof7m0qxWkisWL6yP4kVd1DOSe/gkAL6KoI+Nz/AE9aTpzInF1LNSzj8qZVuWH3jqMylWkJBB9+DqysZ+JoJFbG5jZlK7eRck7jbUicm8rc12ofcbVgmlsC548qNJFGylW+kjblWX09eQeDz68aP1USadEHkHIVfU/yDRoepIYoY4zi84CiKvGPf2G2h5nMjIChBUoZXv8APV5GMlJ0UIH3JJI9tGjWJi+hTP/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Treasure Trove</div>
+                                                <div class="unlocked">10 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUBAwYC/8QALhAAAgIBAwMCBAUFAAAAAAAAAQIDBAUAESEGEkETURQxMmEVIkJxgZGhseHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBP/EABsRAQEBAQADAQAAAAAAAAAAAAECABEDEjFx/9oADAMBAAIRAxEAPwDcYTH/AIhj7F3IZXLq4tzx9sNtlXZZGAAUfYaKbCgxpNWyuesQyMqKFukHnyOPkPc6t6WmWv07NNIA3bes7LuN3JlYbDfyd9OawuPAWijhqRhQIISA3G36iDsOeNhv++siRDdV3RT+7M1cRNEkr2r2bALbRL8eyuwHz4P3+RPb499GZjFSYyGvdrZTLs62YFMc1ouhVpFVgRtzwdaSkEaqp/Mxb6/U5Jbzv/PjSfqZvTxyRD6RkKiqPYGVDtqsgaT5Kqw09FqFw0y8Htu2hzyN/WbXXTlW1Xnteqyelv2uO4sTKO3c+wHJ/wCGlnTuROMqWalnH5UyrcsPvHUZlKtISCD54OjK2dWA2zJjcwFecuu1JySCF8D7g6CcMua9q4fc47pIb0iRqpE6+ovcdgGHDf27T/XS7qOMx0KKlu9myNYux8n1Bz/jVFjqGCQpvjc4rxsHVhj34/0QSDoXM5kZAUIKlDK9/wAdXkYyUnRQgfckkjxo0c0jx17Dzf/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Cockerel Crowed</div>
+                                                <div class="unlocked">10 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwQFAQIG/8QALxAAAQMCBQMBBgcAAAAAAAAAAQIDBAURAAYSITEUQVETFRYiYXPRMjVEcYGDo//EABcBAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIREiFB/9oADAMBAAIRAxEAPwDvMu0pdWhvyplUq6Xerfb0tTFISAlwgWH7Yp+7KE6yqtVzTpO3WnYeeMZyP+SvEn9bK3/tVgzgjS5jRekKjypCD04TsVND8Q8HVyRyBa3GMwMJ03vbtB8ikDLzLzV/alfQ4ANSFzlak33Hy/kYHWKU5TGmJkWq1ZS0SmE+m7KK0KSp1KSCLb7HFx6ZGExYaWFPRgkPpSD8KFmwBPF+9vvhTNyimmRx5nRU/wCyftghjJW9m5v2ByYlPsV9s7jrJSTb6qsNvFyHodU0p1xhotoAVpQ4m43vwlXw99ud8RMuVE0uJJiSafVS6mZIXduIpSSlThIIPfY4qqzE0hJUqm1m3FuhWScBMIvW3ahsLJBkvFhDaUPyAgvEG/psg33PGom4Fvme2NM1m8SFxvUY17/UGEINbiwW1ttUyunUsrJMBZO52F/AFgPAAwGs1kVAQGIkCq6+ujuKLkJaEhAXckkjtgpktaW6PPJ//9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Wayward Ways</div>
+                                                <div class="unlocked">10 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1514,48 +1554,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQMEAAIG/8QALRAAAgEDAgQEBQUAAAAAAAAAAQIDBAURACEGEhMxFDJBURUiI2GBNFJxo9H/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIDBP/EABoRAQEBAQEBAQAAAAAAAAAAAAECABEDMSH/2gAMAwEAAhEDEQA/AO6sFra6UNRWVt0vCyCqqEKw1bKoVJCBhR9tIwcPwTLzx369PG3yjFce/f2znUXCtZ4Wy8qRNPUzV9UsUSnHMRKxJJOwAHc6ZhtSiOENI6lHEzKhGOoARkEjO2fzgaqkENq9Lqaf3mOj4cp0mEPxi+GUpz48c3lzjPb31BeLVJbIoKylut2Z0qoF6ctUXRlaVVIIxvsdNCEUFa9VIzSJMipLK53TBPLsB5dz/H5Oq3FzFbZTj91dSr/cv+abJx0Zumg70x3DwVLDIV5hLFXVZWRO6fVbJ+/fGPXOmrX4qOR0rpGeWRBIvsozjlx2BGRnGx0Bw5cTbKSppKm33UyrWTvlKNnUhpCQQfXY6UbiCFMubbeAe36FyTolAM/SaaeGy5QV1w6vQqGjo3zEYQBmUDZhzHyhsEA99QX+upqmityxSIHa4UwMTnDpiQZBXuCNbjiWBByi13sAegt76oXm8JcDQRUluunU8dTu7yULoAivk5Yj00Kc+4ma6dPm/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Corrupted Captains</div>
-                                                <div class="unlocked">5 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYCBAUB/8QAKRAAAgICAQQCAQMFAAAAAAAAAQIDBAURIQASE0EGMVEUYYEicZGh8P/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwX/xAAeEQABAwUBAQAAAAAAAAAAAAABAAIRAxIhMVFB4f/aAAwDAQACEQMRAD8AYcbO1/MVaE17NG5ZtWC5itMkaRJI4419HQ/7fTQ+CrQp5Jc/mREzeMH9d/SGJ196/I99LeIhmkW28MoR1ksrsoX0jySKW7RydH8b1sE9MOL+OQz4GCLzz2Krr+pVGPazSMv2WHrn/f31BgnxaFYhp3CPS+O1p66TQZnOPG42rG8w2P7EdBzGKkxkUFyrlcszpagXxy2i6MrSqpBGueD1e+KX4HxkEDSlJgQqwyAKV7gWVV0T3DQOjv0fx135VMr4qu0bh1a/WTanfInUEf5HTwLZCgHPFS09VH47Uqz/AB6wLVdbHht3GUc92/I++0jkE/XHWTi8hemxNSvPWaOVkAR5LTKqKZRGp7F02wSByd8dXsDkZMZQt1JKGTFkWrDqy02dD3SMVbfscjrOwavWxl2POwZe1PY7kDQ4918aFy+l/fuPdv1xr66TirGXE9x8UsJhLdChcvXpYZoI6weLxL2uJI5GJ/ng8+yx/fo1i43elRgfHJk60yd2h27kGxxxyVJ44B3+epYyalRwz4qer8luVS3dqak+wuwe3Y9bG/5PQ781ezeqTVMflTZa3WG3ovHHDCrgkDjj0SfeujQwmkucS5f/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Thousand-Mile Quest</div>
-                                                <div class="unlocked">5 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUGAP/EAC4QAAICAQIEBAMJAAAAAAAAAAECAwQFABEGEiFBExQicTFhgTIzQlFUkaGzwf/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAGhEBAQEBAQEBAAAAAAAAAAAAAQIAEQMhQf/aAAwDAQACEQMRAD8A2eHxt3KQPYe9k2JtWEcpfaNVCSEKFX2+fbVOPAcvOZctnCoGzBbrbp8yNt/5Ol8DdcLNv+ttf2tqtd3iQWlHqh6tt3T8Q/36armTndp9PWi2TSIeGIeQMmYzjBhuG8+xBH7aNmcVJjIoLlXK5ZnS1Avhy2i6MrSqrAjbr0Or6ulO34TsqQTAvGSdgGHVlHuPUProHFkgOKrlGDK16qu6ncffLoZOZRdNHX44vC8vlOG7sigMYbVs7diRK2rmQlVMZakJBVYn3/L4HWWwN1aGPt0LuNyjk2rBbkqOysryMQQe4IOkPllRD4uJv2F+zvLj35m9wAQffQVwzuFtefu0sEW1WGOcLIyoobcbgkAAnUTiirCkNCSKNUY5CsG5PSGHiD4gdDrhxPEAA2LzYYDqBQfbQczmRkBQgqUMrz+eryMZKTooQPuSSR20VQmj5xZQpv/Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Shifting Sands</div>
-                                                <div class="unlocked">2 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQEEBgL/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGEzEiQWEUMnFRcpGhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgME/8QAGREBAQEBAQEAAAAAAAAAAAAAAQIAESED/9oADAMBAAIRAxEAPwDedO2p7tRz1VZdLusv1c8e2KsZFAWQgYH41cq7DDSRGSW9X0q3pVfrsYJ+SPjydUOnKyWG2TBUMiisqRt7vb57rEknHPB8fB8nTsO24Q06ytIElO5d33LlM458jIPn21VIJtdtTT75qNBYYJSyrdr0SB9y3IuDjgjIHkHH86i82mW1xQVlNdLuzpVQL25qoujK0qqQQRzwdIVUItdIy07SsSjbR5IJ2gBQPge2s7Wz1abIZ4u1DLUUpCorBNwnXkbickjBP6ZwfGh4GcNU975l+hIRHRXDBLbq2bPuMiRxxpqanaaqMiTCN4yMegMRlSOc/u1lun6iK3Q1UFXbLq04q52LJSu6srSMVIPgjB0rHeqWlVzFabvGHbLBaF8scYz/AFpynAdD6TTamTEEiVNPLNO0zbti+gLjIJ9vxorrLeJLL6co1fECSfHrUj/Nc1N/pJ1CT2m9uFO4D6CQY+cg6LudVSVU1vFvtd2WcVsDM0lLKqqgcFic8aKTnDHziihTf//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>The Tiger Family</div>
-                                                <div class="unlocked">2 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+39 others...</div>
+                                            <div class="description ellipsis">+43 others...</div>
                                         </div>
                                     </div>
                                 </div>
