@@ -1433,7 +1433,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        40 hours played
+                                        41 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1450,7 +1450,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            61 / 81 achievements unlocked
+                                            62 / 81 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABAIDBQEG/8QAKRAAAgICAQIFBAMBAAAAAAAAAQIDBAURIQASBhMxQWEUUYKRFTNxgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwIE/8QAGxEBAAMBAQEBAAAAAAAAAAAAAQACERIxMlH/2gAMAwEAAhEDEQA/APeeHcU+Wpz2rmUy6y/Vzx9sVxkUBZCBof50q9glqIpXLZ6WSVhHHELpHJ5J3regASek+CnVMFO8jBVW5aJYngDzW66clHYzY+mdZGQGKMaPB0CxP22Sg/E9SA5J12tftDwhMVhIbP1CHKZxZoHEcg/kGI9N8cdSzGKkxkUFyrlcszpagXy5bRdGVpVUgjXPB60bMq43KmQJ3eeO11XQ7uNq37DL+Q6r8SWFnwlOaInsluVNff8AuXg/rowxiL2bH4zAozWBh0o1U7y+Qss5XuOgszEb0DpSdc/B6Tdmmly0F5TWWUADcRZ2lCsCV0BsbI0O7kHj0O+iYtUgrW612pmhKbVjZirOyFGkLDXsQfX36ULjQVJIIqeXRHfvdnqSMznQXQA1oaA+/WTyVfpwiPGVuCStAQJo7UMiuUC6kRD6txsaGt+vt8dZ0tiaWZFLHymv1e9GRlXvDr3OvcN6JOv+fG+rL15rFiHdfNeSIkilVsY7MQrd21O+N+/vx8nqdm9HJVxtOjRyzOt6u7vLSeNQivsnZHAHQuuxVOQMn//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Treaded Tracks</div>
+                                                <div class="unlocked">11 Sept 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1544,18 +1554,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABAEFAAMG/8QALhAAAgIBAwIFAgUFAAAAAAAAAQIDBAUAESEGEhMUMUFRImEVJEJDY3FzkaPx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQEBAAMBAQAAAAAAAAAAAAABAgAREiEx/9oADAMBAAIRAxEAPwDvOncU+Wpz2rmUy6y+bnj7YrjIoCyEDYD7afL06iRWHGazh7EY9pun6eN/j7anoyZYsLL3rKfztrlULfut8a3I8mRzE0UMyCOOApK/YysyuCAjKwA3B5DA/I251kBozqqr7r3wwuNwEM1aBjls54skCSsPPNx3D/v+NRmMVJjIoLlXK5ZnS1Avhy2i6MrSqpBG3PB01YPwuxFG19USSOISO6nuKxL2hV2Gw3O5JJ434HvqOp7UM2Mg8CVZN71UfT/eXRDWCqbPdjmdFALh5lH6btof7m0qxWkisWL6yP4kVd1DOSe/gkAL6KoI+Nz/AE9aTpzInF1LNSzj8qZVuWH3jqMylWkJBB9+DqysZ+JoJFbG5jZlK7eRck7jbUicm8rc12ofcbVgmlsC548qNJFGylW+kjblWX09eQeDz68aP1USadEHkHIVfU/yDRoepIYoY4zi84CiKvGPf2G2h5nMjIChBUoZXv8APV5GMlJ0UIH3JJI9tGjWJi+hTP/Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Treasure Trove</div>
-                                                <div class="unlocked">10 Sept 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+51 others...</div>
+                                            <div class="description ellipsis">+52 others...</div>
                                         </div>
                                     </div>
                                 </div>
