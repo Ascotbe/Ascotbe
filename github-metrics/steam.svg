@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="8469" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="8060" class="">
     <defs>
         <style/>
     </defs>
@@ -860,112 +860,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            78 / 78 achievements unlocked
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQMEBgj/xAAmEAACAQMDBAIDAQAAAAAAAAABAgMABBEFITESE2FxQVEygZHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APLtOaXpUDQpLqUnZEuDEvcCll+TuONx/DRNoGEyMqoxQ9R7gyuB9+K6HSNSllLWy28M0aIelnXBCk8et9hQG6pZRWckYglMiuvVvjb9jzmsZFOandOL6EXMUR7aL04XI9kfPqh51Ksc433GOD6oMkUjI2VP+0vpwVYnk4jcgFPvfg+KFzVbe4aFtt1PIoFb3BWOYnKdIAQ/Hj1R8shcksc1Ka4aUjP4jYD6qZag/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Ran the Gauntlet</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description">Finish the game on the "Blood and Broken Bones!" or "Death March!" difficulty levels.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABQQBBgj/xAAnEAACAQMDAwMFAAAAAAAAAAABAgMABBETMWEFQVESIXEiIzKR4f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDl2lei9OmunW4QxqkbrjVQsrHO2Bv2/dHW6qZYxIruvqGVU+5HFbHaXlpLHHbzrMHgQqhifC4zwR780BV/ZzW02ZdP7hLDT287dt6mIpm/kt5rqBXSVQiAEFvy4yc4+aJlGCRjGDsdxQTQS6bE4yCMHzjilOlExajo2FYYEngd8c0Pmqba6KppSH6Ox8UCPUSzyh5CCoXBfz/agml9Zz2AwPisXN0ZB6EJ0wc/JqYtQf/Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Walked the Path</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description">Finish the game on the "Death March!" difficulty level.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgMECP/EACkQAAIBAwIFAwUBAAAAAAAAAAECAwAEESFBBRITIjFxwfAyUVJhgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5cJwDTqz4LYRujrbq7OFwJWLAEpzabf6KDgdtOOHXKdC3CMAVWMEZzjtOf7Qbb7g9rdRs0sah1XTp9p0zgZ8AegoFink970yuWVUOcsxAAoNKNTg6ZoIwN0kMh+o9qe5rTacw5ZImdcE5Vdz+vmlYRK6gBXYAeADVVnPIFd2JO/40Gyck80krOx2D6kep+ZqMz9RBJv4b2NSachSquQRv4zUmmdhguxH2zQf/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Geralt: The Professional</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQMEBgj/xAAoEAACAQIFAwQDAQAAAAAAAAABAgMAEQQFEiExE1FhIjJBkXGhscH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8u07lmSHExGUlmjfCtKhAO0gNtP2KPwvSeAIMPG2IHGot6x22PP9pzJsymiwQSPpRoGNlN9qDPjMlMEEUo1Ki4USyEg++/t/O4+qHItXSZnmM0uDZH6TqSLgX33vQ+KMawaDDGsx3ut/QPvk/qgLRjfat8Y6zK0qkSE8ca/J7eT/ALR16okvw9yt7i/xQIsBEzMi3dT7Rvp8+R2rG73Jve/mpvNyEuATcnuamWoP/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Kingmaker</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQMEAAEI/8QAKRAAAgEDAgQFBQAAAAAAAAAAAQIDAAQREiEFMUFhEyJCUXGBobHB8P/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDmvh/DZL9H8GWFXX0yNpyOxqQ8LABAv7AyjnH437xj70bpyu43pO5nUz6JYldVVQCvlZfKOvX60GTWggsY2fed5GAKuGUqAPbuaqkUzetI1naxqxkLx62Vjk89sDofiiJBjPSgqBsU3bwW8yGSYHVnGdWNsCg6ma4OAF5d996Bi7mtm0kqW0qFU6iBgfmj7i4Ei6cZI9Tc/j+zVMuSckkn3rRag//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Assassin of Kings</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUAAQMI/8QAIxAAAgIBBAICAwAAAAAAAAAAAQIDEQASITFBBBNRYYGhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDl3NIEMsqotC+zwB2TlRBNQ9urT3p5xh40cMUjgN7lKMw2K6lAuvkWf0PvAFaNo3ZG5B67yEYwljheUC/UqqpOxalIuvuia/IwKbTZ0WF61c4AsRBcBjQ7w/xfJZZkvQRq2Ara6H8xbeWjlWDDkG8BnL5TM7WUoncbb4JIwsgGx1mBkJJPzlFsD//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Friends With Benefits</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQMEAQII/8QAJxAAAgEEAQMDBQEAAAAAAAAAAQIDAAQREiEFMWEUQVEiIzJSkcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5tsrGG6I0ul2CbMhUqQewAPYjJFS3PQepWw2NuZE/aI7A/7Ra51I554PmnOlzT+kupbe5miniVWCq30nvnjtQGCCVVy0bDHyKuz2K2tuZLktsw1jRRghuCds9sfHvSfqREI7/qOk94V+0gUDA9icUNe3M1zI8kzks3ce38oD1bFX+l3AiuDn8HUqaOzWVcqcgkHxQXHbVtTwBwPPmomfNRPJs7MARk5rUtQf/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Full Crew</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAgQFAwYI/8QAJhAAAgIBAwIGAwAAAAAAAAAAAQIDEQAEEjEFIRMUIkFRYTJScf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDl3Genabzusjg8RYt9+pgSBQJ9v5mKKFnZFoguaBPYHKfQgqa4XGTOu6txpR2o8dyecCcgsYZGMGNGdvLqyooJIY3QH3gSQyCIyFCqfsRQwC6VrnhPhMVMR9mP4n5F4+rhdck+0K7EhiDYbtyM1+8NJXQUrGvjAuaOYaeLdtUblBZmPP0Mn67VSamXdIwNcAGwMTaRmrcSawS2B//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>The Enemy of My Enemy</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description">Use the Axii Sign to force one opponent to kill another. Do this 20 times.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQCAwj/xAAqEAACAQIDBwMFAAAAAAAAAAABAgMAEQUSIRMiMUFRYYEEFLEjMnHB0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDy6ASQACT0FVQwMrrtY2LsQEisQXPLx81Mo0701hCzRqvq2eMEXWJpQzFTzIsOXegh2Bckwo1x98YFyp/lc2BBsRY96WxIFh7qPd2hyy5QQCw5jseP5ot+FBKrWpbDJc4yNPKthuqjkWHxQ963FKYyLdQT4oF8Qly/TE0raah3Jv8AqjWe9c3lLnXqSPNYLUH/2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Humpty Dumpty</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description">Kill 10 opponents by knocking them off somewhere high with the Aard Sign.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQMECP/EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEERIhMQVBUQYTIoFhwdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5drV060lvbpYoY3c8kLzj9VGGJ5MiNSxALEDwOTT3pu4azkdUKs0hGtSQCAATt3P1QF3lpLZ3DRSxuhG4DDcipEU71+4a7lUSFVaPOlQQTggHfuPuhp43jYq6lWHINBmt2ZW1qWBXjHntSDNrzJbhVkQ5I04Lfkfyis+KpBN7RLAZfsT2oFBIYgDN8pW32XJTwaxTMSdRz8uc+ajLN7jasYJ535NT1UH/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Kaer Morhen Trained</div>
-                                                <div class="unlocked">18 Jun 2018</div>
-                                            </div>
-                                            <div class="description">Perform 10 effective counterattacks in a row without getting hit or parrying.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+68 others...</div>
+                                            0 / 78 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
