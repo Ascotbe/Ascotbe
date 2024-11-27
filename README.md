@@ -12,7 +12,7 @@
 - <img src="/Image/happy.gif" width="30px" alt="hi">研究木马相关技术
 - <img src="/Image/huff.gif" width="30px" alt="hi">他啥都想学（啥也不会的菜鸡
 - <img src="/Image/stars.gif" width="30px" alt="hi">~~欢迎找我开黑~~
-- <img src="/Image/tear.gif" width="30px" alt="hi">公众号:瓜皮大笨蛋
+- <img src="/Image/tear.gif" width="30px" alt="hi">~~公众号:瓜皮大笨蛋~~
 
 #### :green_heart:他感兴趣的:
 
